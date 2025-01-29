@@ -1,8 +1,18 @@
 ---
+import { getCollection, getEntry, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { getEntry, render } from "astro:content";
 
-const { id } = Astro.params;
+export async function getStaticPaths() {
+    const posts = await getCollection("posts");
+    return posts.map((post) => ({
+        params: { id: post.id },
+        props: { post },
+    }));
+}
+
+const {
+    post: { id },
+} = Astro.props;
 const entry = await getEntry("posts", id as string);
 
 if (!entry) {
