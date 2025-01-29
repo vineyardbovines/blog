@@ -27,10 +27,10 @@ const { Content, remarkPluginFrontmatter } = await render(entry);
             <div>
                 <p class="font-regular">
                     {
-                        entry.data.pubDate.toLocaleDateString("en-GB", {
-                            day: "2-digit",
-                            month: "short",
+                        entry.data.pubDate.toLocaleDateString("en-IE", {
                             year: "numeric",
+                            month: "short",
+                            day: "2-digit",
                         })
                     } · {remarkPluginFrontmatter.minutesRead}
                 </p>
