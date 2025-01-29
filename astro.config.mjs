@@ -8,9 +8,6 @@ import node from "@astrojs/node";
 export default defineConfig({
     site: "https://vineyardbovines.com",
     integrations: [tailwind(), icon()],
-    adapter: node({
-        mode: "standalone",
-    }),
     markdown: {
         remarkPlugins: [remarkReadingTime],
     },
