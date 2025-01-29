@@ -8,7 +8,6 @@ import node from "@astrojs/node";
 export default defineConfig({
     site: "https://vineyardbovines.com",
     integrations: [tailwind(), icon()],
-    output: "server",
     adapter: node({
         mode: "standalone",
     }),
