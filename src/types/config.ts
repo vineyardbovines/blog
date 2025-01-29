@@ -14,18 +14,21 @@ export type SocialLink = {
 export type Identity = {
     name: string;
     logo: string;
+    avatar: string;
     email: string;
 };
 
 export type SEOInfo = {
     title: string;
     description: string;
+    image?: string
 };
 
 export type HomePageContent = {
     seo: SEOInfo;
     role: string;
     description: string;
+    image?: string
     socialLinks: SocialLink[];
     links: {
         title: string;
