@@ -91,7 +91,7 @@ export const aboutPageContent: AboutPageContent = {
         },
     },
     work: {
-        description: "i do not have a linkedin, but here's an overview of where I've spent my career.",
+        description: "i do not have a linkedin, but here's an overview of where i've spent my career.",
         items: [
             {
                 title: "Staff Software Engineer",
@@ -139,6 +139,9 @@ export const aboutPageContent: AboutPageContent = {
                 date: "2016 - 2017",
             },
         ],
+    },
+    travel: {
+        description: "where i've been (38/256)"
     },
     connect: {
         description: `feel free to connect with me on any of the following platforms.`,
