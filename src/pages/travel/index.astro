@@ -1,0 +1,87 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { travelPageContent } from "../../config";
+import { Image } from "astro:assets";
+---
+
+<Layout seo={travelPageContent.seo}>
+    <section class="mt-10 max-w-2xl mx-auto px-6">
+        <h1 class="font-bold text-3xl mb-1">travel</h1>
+        <p class="opacity-60 mb-10">{travelPageContent.subtitle}</p>
+    </section>
+    <div class="max-w-3xl mx-auto px-6">
+        <iframe
+            width="800"
+            height="450"
+            src="https://beeneverywhere.net/usermap/18907?width=800&height=450"
+            title="test title"
+        >
+        </iframe>
+    </div>
+    <section class="mt-24 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
+        <h2 class="mb-8 sm:mb-0 opacity-60">countries</h2>
+        <div class="mb-6">
+            <p><b>38 / 256</b></p><br />
+            <p>northern america: 🇨🇦 🇺🇸</p>
+            <p>latin america & caribbean: 🇲🇽 🇵🇷 🇻🇮 🇻🇬 🇩🇴 🇦🇼 🇨🇼 🇧🇶 🇻🇪</p>
+            <p>africa: 🇿🇦</p>
+            <p>
+                europe: 🇮🇸 🇳🇴 🇸🇪 🇮🇪 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇧🇪 🇫🇷 🇱🇺 🇩🇪 🇦🇹 🇨🇭 🇱🇮 🇨🇿 🇸🇮 🇸🇰 🇮🇹 🇻🇦
+                🇲🇹 🇭🇺 🇷🇴
+            </p>
+            <p>asia: 🇵🇸 🇮🇱 🇯🇴 🇶🇦 🇦🇪</p>
+        </div>
+    </section>
+    <section class="mt-24 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
+        <h2 class="mb-8 sm:mb-0 opacity-60">flights</h2>
+        <div>
+            <Image
+                src="/flights.png"
+                alt="All of my flights"
+                width={450}
+                height={250}
+            />
+        </div>
+    </section>
+    <section class="mt-24 max-w-2xl mx-auto px-6 sm:flex sm:gap-16">
+        <h2 class="mb-8 sm:mb-0 opacity-60">airports</h2>
+        <div class="mb-6">
+            <p><b>54 / 4000</b></p><br />
+            <p>
+                northern america<br /><span
+                    style="font-variant-caps: all-small-caps;"
+                    >YVR . SEA . PDX . SFO . LAX . LAS . DEN . AUS . IAH . DFW .
+                    MCI . MSP . ORD . BNA . ATL . MCO . FLL . CHS . CLT . DCA .
+                    IAD . BWI . PHL . EWR . LGA . JFK . BOS . PWM
+                </span>
+            </p>
+            <br />
+            <p>
+                latin america & caribbean<br />
+                <span style="font-variant-caps: all-small-caps;"
+                    >PUJ . SJU . STT . AUA</span
+                >
+            </p>
+            <br />
+            <p>
+                africa<br />
+                <span style="font-variant-caps: all-small-caps;">CPT</span>
+            </p>
+            <br />
+            <p>
+                europe<br />
+                <span style="font-variant-caps: all-small-caps;"
+                    >KEF . DUB . EDI . LHR . LGW . CDG . ARN . AMS . ZRH . BLQ .
+                    FLR . FCO . VCE . MLA . OTP</span
+                >
+            </p>
+            <br />
+            <p>
+                asia<br />
+                <span style="font-variant-caps: all-small-caps;"
+                    >DXB . DOH . AMM . TLV</span
+                >
+            </p>
+        </div>
+    </section>
+</Layout>

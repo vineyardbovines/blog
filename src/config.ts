@@ -20,13 +20,17 @@ export const navBarLinks: NavBarLink[] = [
         url: "/",
     },
     {
+        title: "blog",
+        url: "/blog",
+    },
+    {
         title: "about",
         url: "/about",
     },
     {
-        title: "blog",
-        url: "/blog",
-    },
+        title: "travel",
+        url: "/travel"
+    }
 ];
 
 export const socialLinks: SocialLink[] = [
@@ -76,10 +80,12 @@ export const aboutPageContent: AboutPageContent = {
 📱 mobile / iot developer since 2016<br/>
 ✌️ 2e autistic since 1992<br/>
 🌲 working remotely from vacationland (maine, usa)<br/>
-🛩️ frequent flyer<br/>
+💩 crohn's disease have-r<br/>
+🛩️ <a href='/travel'>frequent flyer</a><br/>
 🐕 3x dog parent to diesel, moose, and hoagie roll<br/>
 🦻 hearing aids wearer<br/>
-🏕️ outdoors enthusiast
+🏕️ outdoors enthusiast<br/>
+🏎️ vroom vroom watcher
         `,
         image_l: {
             url: "/about-horz.jpeg",
@@ -140,14 +146,19 @@ export const aboutPageContent: AboutPageContent = {
             },
         ],
     },
-    travel: {
-        description: "where i've been (38/256)"
-    },
     connect: {
         description: `feel free to connect with me on any of the following platforms.`,
         links: socialLinks,
     },
 };
+
+export const travelPageContent = {
+    seo: {
+        title: "travel | spence pope",
+        description: "my travel profile",
+    },
+    subtitle: "where i've been"
+}
 
 // blog (/blog)
 export const blogPageContent: BlogPageContent = {
