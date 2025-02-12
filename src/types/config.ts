@@ -69,9 +69,6 @@ export type AboutPageContent = {
         description: string;
         links: SocialLink[];
     };
-    travel: {
-        description: string
-    }
 };
 
 export type Project = {
