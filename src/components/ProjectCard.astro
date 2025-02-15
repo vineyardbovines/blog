@@ -1,13 +1,13 @@
 ---
 import { Image } from "astro:assets";
 import type { Project } from "../types/config";
-import {marked} from "marked"
+import { marked } from "marked";
 
 type Props = Project;
 
 const { title, description, image, year, url } = Astro.props;
 
-const htmlDescription = marked.parse(description)
+const htmlDescription = marked.parse(description);
 ---
 
 <a

@@ -1,0 +1,36 @@
+---
+// TagList.astro
+interface Props {
+  tags: string[];
+}
+
+const { tags } = Astro.props;
+
+const colorConfigs = {
+  leadership: { emoji: "💼", bg: "bg-yellow-300", fg: "text-black" },
+  spicy: { emoji: "🌶️", bg: "bg-red-300", fg: "text-black" },
+  misc: { emoji: "🤔", bg: "bg-indigo-300", fg: "text-black" },
+};
+---
+
+<div class="flex flex-row gap-2">
+  {
+    tags.map((tag) => {
+      const styles = colorConfigs[tag] ?? {
+        bg: "bg-gray-300",
+        fg: "text-black",
+        emoji: "❓",
+      };
+
+      return (
+        <a
+          href={`/blog/tags/${tag}`}
+          class={`${styles.bg} px-2 py-1 rounded-2xl opacity-70 hover:opacity-100 transition-opacity font-medium text-xs ${styles.fg}`}
+          style="cursor:pointer;"
+        >
+          {styles.emoji} {tag}
+        </a>
+      );
+    })
+  }
+</div>

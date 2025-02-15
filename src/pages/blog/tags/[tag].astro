@@ -1,0 +1,62 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { blogPageContent } from "../../../config";
+import { getCollection } from "astro:content";
+import TagList from "../../../components/TagList.astro";
+
+export async function getStaticPaths() {
+  // const allPosts = Object.values(import.meta.glob("../posts/*.md", { eager: true }));
+  const allPosts = await getCollection("posts");
+
+  const uniqueTags = [...new Set(allPosts.map((post: any) => post.data.tags).flat())];
+
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allPosts.filter((post: any) => post.data.tags.includes(tag));
+
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+const seo = {
+  title: tag,
+  description: `posts tagged ${tag}`,
+  subtitle: `posts tagged ${tag}`,
+};
+---
+
+<Layout seo={seo}>
+  <section class="mt-10 max-w-2xl mx-auto px-6">
+    <a href="/blog" class="opacity-60 mb-14" style="cursor:pointer;">{`<- blog`}</a>
+    <h1 class="font-bold text-3xl mb-14">{tag}</h1>
+
+    <div class="grid grid-cols-1 gap-10 sm:gap-6 mb-10">
+      {
+        posts.map((post) => (
+          <div>
+            <a href={`/blog/${post.id}`} class="sm:flex sm:justify-between sm:gap-6 post">
+              <div class="mt-4 sm:my-auto">
+                <p class="opacity-60 mb-2">
+                  {post.data.pubDate.toLocaleDateString("en-IE", {
+                    year: "numeric",
+                    month: "short",
+                    day: "2-digit",
+                  })}{" "}
+                  · {post.data.readingTime}
+                </p>
+                <h3 class="font-medium hover-underline">{post.data.title}</h3>
+                <p class="text-sm opacity-60 mt-2 mb-3">{post.data.description}</p>
+              </div>
+            </a>
+            <TagList tags={post.data.tags} />
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</Layout>
