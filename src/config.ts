@@ -109,7 +109,7 @@ export const aboutPageContent: AboutPageContent = {
                 date: "2021 - Present",
             },
             {
-                title: "Senior Software Engineer",
+                title: "Lead Software Engineer",
                 company: {
                     name: "Very",
                     image: "/very.png",
@@ -118,7 +118,7 @@ export const aboutPageContent: AboutPageContent = {
                 date: "2020 - 2021",
             },
             {
-                title: "Senior Software Engineer",
+                title: "Lead Software Engineer",
                 company: {
                     name: "MedRhythms",
                     image: "/mr.png",
