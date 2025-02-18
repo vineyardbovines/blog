@@ -7,7 +7,8 @@ export const aboutPageDescription = `
 🐕 3x dog parent to diesel, moose, and hoagie roll<br/>
 🦻 hearing aids wearer<br/>
 🏕️ outdoors enthusiast<br/>
-🏎️ vroom vroom watcher
+🏎️ vroom vroom watcher<br/>
+🤔 <a style="text-decoration:underline;" href="https://learnedleague.com/profiles.php?68607" target="_blank" rel="noopener noreferrer">trivia player</a>
         `
 
 const jobs = [
