@@ -43,7 +43,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     title: "email",
-    url: "mailto:spencerfpope@gmail.com",
+    url: "mailto:spencer@begaydocrime.tech",
     icon: "mdi:email",
   },
 ];
