@@ -1,19 +1,9 @@
 ---
-import { getCollection, getEntry, render } from "astro:content";
+import { getEntry, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import TagList from "../../components/TagList.astro";
 
-export async function getStaticPaths() {
-  const posts = await getCollection("posts");
-  return posts.map((post) => ({
-    params: { id: post.id },
-    props: { post },
-  }));
-}
-
-const {
-  post: { id },
-} = Astro.props;
+const { id } = Astro.params;
 const entry = await getEntry("posts", id as string);
 
 if (!entry) {
@@ -32,7 +22,7 @@ const { Content, remarkPluginFrontmatter } = await render(entry);
   <section class="mt-10 max-w-2xl mx-auto px-6">
     <a href="/blog" class="opacity-60 mb-14 text-sm" style="cursor:pointer;">{`<- blog`}</a>
     <h1 class="font-bold text-3xl mb-4">{entry.data.title}</h1>
-    <TagList tags={entry.data.tags} />
+    <TagList tags={entry.data.tags ?? []} />
     <div class="flex gap-4 mb-6 mt-6">
       <div>
         <p class="font-regular text-gray-400">

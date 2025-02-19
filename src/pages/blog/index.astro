@@ -39,7 +39,7 @@ for (const post of posts) {
                 <p class="text-sm opacity-60 mt-2 mb-3">{post.data.description}</p>
               </div>
             </a>
-            <TagList tags={post.data.tags} />
+            <TagList tags={post.data.tags ?? []} />
           </div>
         ))
       }
