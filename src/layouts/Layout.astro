@@ -151,6 +151,11 @@ const { seo } = Astro.props;
       monospace;
   }
 
+  table {
+    margin-top: 1em !important;
+    margin-bottom: 1em !important;
+  }
+
   .hover-underline {
     text-decoration: underline 1px rgba(0, 0, 0, 0);
     text-underline-offset: 5px;
@@ -159,5 +164,31 @@ const { seo } = Astro.props;
 
   .post:hover .hover-underline {
     text-decoration-color: rgba(255, 255, 255, 1);
+  }
+
+  details > summary::marker {
+    content: "👉 ";
+  }
+
+  details > summary {
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 700;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+
+  details:hover > summary {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  details[open] > summary {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+  }
+
+  details[open] > summary::marker {
+    content: "👇 ";
   }
 </style>
