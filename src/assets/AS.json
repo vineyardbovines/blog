@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.61245118344142,
+          25.2748602
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Hamad International Airport",
+        "osmId": "R18055231",
+        "region": "QA",
+        "country": "Qatar",
+        "countryCode": "QA",
+        "flag": "🇶🇦",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.365715576690505,
+          25.2521287
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Dubai International Airport",
+        "osmId": "R18471754",
+        "region": "AE-DU",
+        "country": "United Arab Emirates",
+        "countryCode": "AE",
+        "flag": "🇦🇪",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7818064,
+          32.0852997
+        ]
+      },
+      "properties": {
+        "name": "Tel Aviv",
+        "osmId": "R1382494",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2257626,
+          31.7788242
+        ]
+      },
+      "properties": {
+        "name": "Jerusalem",
+        "osmId": "R1381350",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9239625,
+          31.9515694
+        ]
+      },
+      "properties": {
+        "name": "Amman",
+        "osmId": "N1643504896",
+        "region": "JO",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "flag": "🇯🇴",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9983856,
+          32.8191218
+        ]
+      },
+      "properties": {
+        "name": "Haifa",
+        "osmId": "R1387888",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9497949,
+          29.5569348
+        ]
+      },
+      "properties": {
+        "name": "Eilat",
+        "osmId": "R1377284",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.007822,
+          29.526702
+        ]
+      },
+      "properties": {
+        "name": "Aqaba",
+        "osmId": "W193469321",
+        "region": "JO",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "flag": "🇯🇴",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4800889,
+          30.3216568
+        ]
+      },
+      "properties": {
+        "name": "Wadi Musa",
+        "osmId": "N411050499",
+        "region": "JO",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "flag": "🇯🇴",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0944873,
+          31.528902
+        ]
+      },
+      "properties": {
+        "name": "Hebron",
+        "osmId": "R3797325",
+        "region": "PS",
+        "country": "Palestine",
+        "countryCode": "PS",
+        "flag": "🇵🇸",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.880919342,
+          32.0027142
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Ben Gurion International Airport",
+        "osmId": "W198356187",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.007236991673565,
+          31.72380235
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Queen Alia International Airport",
+        "osmId": "W156580417",
+        "region": "JO",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "flag": "🇯🇴",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7925181,
+          31.2457442
+        ]
+      },
+      "properties": {
+        "name": "Beersheba",
+        "osmId": "R1377264",
+        "region": "IL",
+        "country": "Israel",
+        "countryCode": "IL",
+        "flag": "🇮🇱",
+        "continent": "AS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7269843,
+          32.0390779
+        ]
+      },
+      "properties": {
+        "name": "Al Salt",
+        "osmId": "W379038048",
+        "region": "JO",
+        "country": "Jordan",
+        "countryCode": "JO",
+        "flag": "🇯🇴",
+        "continent": "AS"
+      }
+    }
+  ]
+}

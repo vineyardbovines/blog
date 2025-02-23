@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.964662,
+          32.5010188
+        ]
+      },
+      "properties": {
+        "name": "Tijuana",
+        "osmId": "N4145201092",
+        "region": "MX-BCN",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "flag": "🇲🇽",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6029835,
+          31.8658887
+        ]
+      },
+      "properties": {
+        "name": "Ensenada",
+        "osmId": "R4717393",
+        "region": "MX-BCN",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "flag": "🇲🇽",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.455581,
+          31.7097961
+        ]
+      },
+      "properties": {
+        "name": "Ciudad Juárez",
+        "osmId": "N4145208823",
+        "region": "MX-CHH",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "flag": "🇲🇽",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3691611,
+          18.556551
+        ]
+      },
+      "properties": {
+        "name": "Punta Cana",
+        "osmId": "N2613949295",
+        "region": "DO",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "flag": "🇩🇴",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.116666,
+          18.465299
+        ]
+      },
+      "properties": {
+        "name": "San Juan",
+        "osmId": "N53200527",
+        "region": "PR",
+        "country": "Puerto Rico",
+        "countryCode": "PR",
+        "flag": "🇵🇷",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.932789,
+          18.341137
+        ]
+      },
+      "properties": {
+        "name": "Charlotte Amalie",
+        "osmId": "R255299",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.918899701,
+          18.34290815
+        ]
+      },
+      "properties": {
+        "name": "Saint Thomas",
+        "osmId": "R2754159",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7944809,
+          18.3308212
+        ]
+      },
+      "properties": {
+        "name": "Cruz Bay",
+        "osmId": "N838974272",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.366626169,
+          18.5697918
+        ]
+      },
+      "properties": {
+        "name": "Punta Cana International Airport",
+        "osmId": "W256151866",
+        "region": "DO",
+        "country": "Dominican Republic",
+        "countryCode": "DO",
+        "flag": "🇩🇴",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.997430368,
+          18.44319945
+        ]
+      },
+      "properties": {
+        "name": "Luis Muñoz Marín International Airport",
+        "osmId": "R6004891",
+        "region": "PR",
+        "country": "Puerto Rico",
+        "countryCode": "PR",
+        "flag": "🇵🇷",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.972453646,
+          18.33476905
+        ]
+      },
+      "properties": {
+        "name": "Cyril E King Airport",
+        "osmId": "W224549049",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.63883251,
+          18.42105685
+        ]
+      },
+      "properties": {
+        "name": "Tortola",
+        "osmId": "R5401566",
+        "region": "VG",
+        "country": "British Virgin Islands",
+        "countryCode": "VG",
+        "flag": "🇻🇬",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6232227,
+          18.4257128
+        ]
+      },
+      "properties": {
+        "name": "Road Town",
+        "osmId": "N280972174",
+        "region": "VG",
+        "country": "British Virgin Islands",
+        "countryCode": "VG",
+        "flag": "🇻🇬",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.749042713,
+          18.44684595
+        ]
+      },
+      "properties": {
+        "name": "Jost Van Dyke",
+        "osmId": "W158166946",
+        "region": "VG",
+        "country": "British Virgin Islands",
+        "countryCode": "VG",
+        "flag": "🇻🇬",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.41546930691665,
+          18.465439
+        ]
+      },
+      "properties": {
+        "name": "Virgin Gorda",
+        "osmId": "W157837054",
+        "region": "VG",
+        "country": "British Virgin Islands",
+        "countryCode": "VG",
+        "flag": "🇻🇬",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.61320879500488,
+          18.3155512
+        ]
+      },
+      "properties": {
+        "name": "Norman Island",
+        "osmId": "W157978051",
+        "region": "VG",
+        "country": "British Virgin Islands",
+        "countryCode": "VG",
+        "flag": "🇻🇬",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0356845,
+          12.5268736
+        ]
+      },
+      "properties": {
+        "name": "Oranjestad",
+        "osmId": "N50031810",
+        "region": "AW",
+        "country": "Aruba",
+        "countryCode": "AW",
+        "flag": "🇦🇼",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1917178,
+          11.6931716
+        ]
+      },
+      "properties": {
+        "name": "Punto Fijo",
+        "osmId": "N792183738",
+        "region": "VE-CO",
+        "country": "Venezuela",
+        "countryCode": "VE",
+        "flag": "🇻🇪",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.93708506,
+          12.11000695
+        ]
+      },
+      "properties": {
+        "name": "Willemstad",
+        "osmId": "R11905868",
+        "region": "CW",
+        "country": "Curaçao",
+        "countryCode": "CW",
+        "flag": "🇨🇼",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2740206,
+          12.1472869
+        ]
+      },
+      "properties": {
+        "name": "Kralendijk",
+        "osmId": "N50034650",
+        "region": "BQ-BO",
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "countryCode": "BQ",
+        "flag": "🇧🇶",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.01412635,
+          12.50213495
+        ]
+      },
+      "properties": {
+        "name": "Queen Beatrix International Airport",
+        "osmId": "W97834000",
+        "region": "AW",
+        "country": "Aruba",
+        "countryCode": "AW",
+        "flag": "🇦🇼",
+        "continent": "SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.740011839034,
+          18.336883049999997
+        ]
+      },
+      "properties": {
+        "name": "Virgin Islands National Park",
+        "osmId": "R2910708",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    }
+  ]
+}

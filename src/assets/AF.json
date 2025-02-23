@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.417396,
+          -33.928992
+        ]
+      },
+      "properties": {
+        "name": "Cape Town",
+        "osmId": "N32675806",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2361111,
+          -34.4175
+        ]
+      },
+      "properties": {
+        "name": "Hermanus",
+        "osmId": "N29162331",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.355645,
+          -34.043093
+        ]
+      },
+      "properties": {
+        "name": "Hout Bay",
+        "osmId": "N262720634",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.433266,
+          -34.193181
+        ]
+      },
+      "properties": {
+        "name": "Simon's Town",
+        "osmId": "N254352976",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.025278,
+          -34.338889
+        ]
+      },
+      "properties": {
+        "name": "Kleinmond",
+        "osmId": "R9849986",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.428333,
+          -34.23
+        ]
+      },
+      "properties": {
+        "name": "Caledon",
+        "osmId": "N25928795",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8489342,
+          -34.0822195
+        ]
+      },
+      "properties": {
+        "name": "Somerset West",
+        "osmId": "W761712072",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.802768,
+          -34.015606
+        ]
+      },
+      "properties": {
+        "name": "Sedgefield",
+        "osmId": "N262722155",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.048485,
+          -34.035734
+        ]
+      },
+      "properties": {
+        "name": "Knysna",
+        "osmId": "N1490089707",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5786317,
+          -33.9932378
+        ]
+      },
+      "properties": {
+        "name": "Wilderness",
+        "osmId": "N26308367",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.886389,
+          -33.971944
+        ]
+      },
+      "properties": {
+        "name": "Stormsrivier",
+        "osmId": "N262717594",
+        "region": "ZA-EC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.60211252,
+          -33.97184585
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Cape Town International Airport",
+        "osmId": "W66024072",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.441944,
+          -34.021111
+        ]
+      },
+      "properties": {
+        "name": "Swellendam",
+        "osmId": "N50485644",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4587148,
+          -33.9597212
+        ]
+      },
+      "properties": {
+        "name": "George",
+        "osmId": "R79797",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.459722,
+          -33.964444
+        ]
+      },
+      "properties": {
+        "name": "George",
+        "osmId": "N25928788",
+        "region": "ZA-WC",
+        "country": "South Africa",
+        "countryCode": "ZA",
+        "flag": "🇿🇦",
+        "continent": "AF"
+      }
+    }
+  ]
+}

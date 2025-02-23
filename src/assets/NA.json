@@ -1,0 +1,8868 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2084061,
+          46.8137431
+        ]
+      },
+      "properties": {
+        "name": "Quebec",
+        "osmId": "R2319206",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5428485,
+          46.3432325
+        ]
+      },
+      "properties": {
+        "name": "Trois-Rivières",
+        "osmId": "N207179911",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5698065,
+          45.5031824
+        ]
+      },
+      "properties": {
+        "name": "Montreal",
+        "osmId": "R1634158",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6901106,
+          45.4208777
+        ]
+      },
+      "properties": {
+        "name": "Ottawa",
+        "osmId": "R4136816",
+        "region": "CA-ON",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3839347,
+          43.6534817
+        ]
+      },
+      "properties": {
+        "name": "Toronto",
+        "osmId": "R324211",
+        "region": "CA-ON",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.113541,
+          45.8260909
+        ]
+      },
+      "properties": {
+        "name": "Pembroke",
+        "osmId": "N91705556",
+        "region": "CA-ON",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0639039,
+          43.1065603
+        ]
+      },
+      "properties": {
+        "name": "Niagara Falls",
+        "osmId": "R2388057",
+        "region": "CA-ON",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8783922,
+          42.8867166
+        ]
+      },
+      "properties": {
+        "name": "Buffalo",
+        "osmId": "R175031",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4968019,
+          42.4396039
+        ]
+      },
+      "properties": {
+        "name": "Ithaca",
+        "osmId": "R174979",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.754968,
+          42.6511674
+        ]
+      },
+      "properties": {
+        "name": "Albany",
+        "osmId": "R175549",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7778138,
+          44.8011821
+        ]
+      },
+      "properties": {
+        "name": "Bangor",
+        "osmId": "R132515",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2043361,
+          44.3876378
+        ]
+      },
+      "properties": {
+        "name": "Bar Harbor",
+        "osmId": "R12200125",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7792759,
+          44.310545
+        ]
+      },
+      "properties": {
+        "name": "Augusta",
+        "osmId": "R132532",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2147764,
+          44.100351
+        ]
+      },
+      "properties": {
+        "name": "Lewiston",
+        "osmId": "R132521",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2548596,
+          43.6610277
+        ]
+      },
+      "properties": {
+        "name": "Portland",
+        "osmId": "R132500",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0060152,
+          40.7127281
+        ]
+      },
+      "properties": {
+        "name": "New York",
+        "osmId": "R175905",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4547891,
+          42.9956397
+        ]
+      },
+      "properties": {
+        "name": "Manchester",
+        "osmId": "R305467",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.212906,
+          44.4761601
+        ]
+      },
+      "properties": {
+        "name": "Burlington",
+        "osmId": "R199071",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6908547,
+          41.764582
+        ]
+      },
+      "properties": {
+        "name": "Hartford",
+        "osmId": "R3909995",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1887863,
+          41.1792695
+        ]
+      },
+      "properties": {
+        "name": "Bridgeport",
+        "osmId": "N158891876",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4128343,
+          41.8239891
+        ]
+      },
+      "properties": {
+        "name": "Providence",
+        "osmId": "R191210",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.060511,
+          42.3554334
+        ]
+      },
+      "properties": {
+        "name": "Boston",
+        "osmId": "R2315704",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8018877,
+          42.2625621
+        ]
+      },
+      "properties": {
+        "name": "Worcester",
+        "osmId": "R1844209",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3137707,
+          41.4899827
+        ]
+      },
+      "properties": {
+        "name": "Newport",
+        "osmId": "R191230",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.419734,
+          58.3019496
+        ]
+      },
+      "properties": {
+        "name": "Juneau",
+        "osmId": "R2605281",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.7462276690827,
+          58.422398799999996
+        ]
+      },
+      "properties": {
+        "name": "Gustavus",
+        "osmId": "R16770717",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330062,
+          47.6038321
+        ]
+      },
+      "properties": {
+        "name": "Seattle",
+        "osmId": "R237385",
+        "region": "US-WA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.339345,
+          46.0667277
+        ]
+      },
+      "properties": {
+        "name": "Walla Walla",
+        "osmId": "R238102",
+        "region": "US-WA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674194,
+          45.5202471
+        ]
+      },
+      "properties": {
+        "name": "Portland",
+        "osmId": "N1666626393",
+        "region": "US-OR",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7547596,
+          45.3041033
+        ]
+      },
+      "properties": {
+        "name": "Government Camp",
+        "osmId": "N150975844",
+        "region": "US-OR",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.603809,
+          42.6546059
+        ]
+      },
+      "properties": {
+        "name": "Soda Springs",
+        "osmId": "R121414",
+        "region": "US-ID",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2274481,
+          44.0869329
+        ]
+      },
+      "properties": {
+        "name": "Rapid City",
+        "osmId": "R195005",
+        "region": "US-SD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      },
+      "properties": {
+        "name": "Jackson",
+        "osmId": "R252274",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.49607,
+          45.7874957
+        ]
+      },
+      "properties": {
+        "name": "Billings",
+        "osmId": "R142497",
+        "region": "US-MT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      },
+      "properties": {
+        "name": "Cody",
+        "osmId": "R252306",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8867975,
+          40.7596198
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake City",
+        "osmId": "R198770",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6587085,
+          40.2337289
+        ]
+      },
+      "properties": {
+        "name": "Provo",
+        "osmId": "R198903",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9738429,
+          41.2230048
+        ]
+      },
+      "properties": {
+        "name": "Ogden",
+        "osmId": "R198889",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5462146,
+          38.5738096
+        ]
+      },
+      "properties": {
+        "name": "Moab",
+        "osmId": "R198930",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.161725,
+          38.9952294
+        ]
+      },
+      "properties": {
+        "name": "Green River",
+        "osmId": "R198926",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5841313,
+          37.104153
+        ]
+      },
+      "properties": {
+        "name": "St. George",
+        "osmId": "R198918",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.457294,
+          36.9148305
+        ]
+      },
+      "properties": {
+        "name": "Page",
+        "osmId": "R8274663",
+        "region": "US-AZ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.528547,
+          37.0481417
+        ]
+      },
+      "properties": {
+        "name": "Kanab",
+        "osmId": "R198956",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1855939112138,
+          37.5707948
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Bryce Canyon National Park",
+        "osmId": "R4716641",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.15525624854631,
+          38.06702855
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Capitol Reef National Park",
+        "osmId": "R4716642",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.56302009799683,
+          38.72652525
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Arches National Park",
+        "osmId": "R5868384",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92066271557445,
+          38.233258649999996
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Canyonlands National Park",
+        "osmId": "R13624591",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.00484986744966,
+          37.3225299
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Zion National Park",
+        "osmId": "R5758583",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.148516,
+          36.1672559
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas",
+        "osmId": "R170117",
+        "region": "US-NV",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419906,
+          37.7790262
+        ]
+      },
+      "properties": {
+        "name": "San Francisco",
+        "osmId": "R111968",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493895,
+          38.5810606
+        ]
+      },
+      "properties": {
+        "name": "Sacramento",
+        "osmId": "R6232940",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434122634,
+          38.2866265
+        ]
+      },
+      "properties": {
+        "name": "Sonoma",
+        "osmId": "W33162431",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.454565,
+          37.8844389
+        ]
+      },
+      "properties": {
+        "name": "Tiburon",
+        "osmId": "R2829690",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1366153,
+          34.6981064
+        ]
+      },
+      "properties": {
+        "name": "Lancaster",
+        "osmId": "R112096",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.542586,
+          34.3916641
+        ]
+      },
+      "properties": {
+        "name": "Santa Clarita",
+        "osmId": "R2313083",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1444779,
+          34.1476452
+        ]
+      },
+      "properties": {
+        "name": "Pasadena",
+        "osmId": "R3529725",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242766,
+          34.0536909
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles",
+        "osmId": "R207359",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4912273,
+          34.0194704
+        ]
+      },
+      "properties": {
+        "name": "Santa Monica",
+        "osmId": "R3353288",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.911732,
+          33.8347516
+        ]
+      },
+      "properties": {
+        "name": "Anaheim",
+        "osmId": "R253985",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3963062,
+          34.0696501
+        ]
+      },
+      "properties": {
+        "name": "Beverly Hills",
+        "osmId": "R3503615",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8259819,
+          33.6856969
+        ]
+      },
+      "properties": {
+        "name": "Irvine",
+        "osmId": "R114485",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.689423,
+          34.035591
+        ]
+      },
+      "properties": {
+        "name": "Malibu",
+        "osmId": "R3492156",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0000166,
+          33.6783336
+        ]
+      },
+      "properties": {
+        "name": "Huntington Beach",
+        "osmId": "R5986511",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2897652,
+          34.1083449
+        ]
+      },
+      "properties": {
+        "name": "San Bernardino",
+        "osmId": "R253639",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3258554,
+          34.1816482
+        ]
+      },
+      "properties": {
+        "name": "Burbank",
+        "osmId": "R3529574",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.191604,
+          33.7690164
+        ]
+      },
+      "properties": {
+        "name": "Long Beach",
+        "osmId": "R112100",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8375937,
+          34.1705609
+        ]
+      },
+      "properties": {
+        "name": "Thousand Oaks",
+        "osmId": "R112603",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.200981,
+          33.9463456
+        ]
+      },
+      "properties": {
+        "name": "South Gate",
+        "osmId": "R3529457",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5751735,
+          34.1033192
+        ]
+      },
+      "properties": {
+        "name": "Rancho Cucamonga",
+        "osmId": "R6411728",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3961623,
+          33.9533546
+        ]
+      },
+      "properties": {
+        "name": "Riverside",
+        "osmId": "R11051996",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3794834,
+          33.1958696
+        ]
+      },
+      "properties": {
+        "name": "Oceanside",
+        "osmId": "R2305280",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1627728,
+          32.7174202
+        ]
+      },
+      "properties": {
+        "name": "San Diego",
+        "osmId": "R253832",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1766947,
+          32.6915199
+        ]
+      },
+      "properties": {
+        "name": "Coronado",
+        "osmId": "R2295632",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.70541078682186,
+          58.42498035
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Gustavus Airport",
+        "osmId": "W1301367233",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.58019300175383,
+          58.3566191
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Juneau International Airport",
+        "osmId": "R9102244",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308015857,
+          47.4475673
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Seattle-Tacoma International Airport",
+        "osmId": "W50898115",
+        "region": "US-WA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.592779849,
+          45.5871326
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Portland International Airport",
+        "osmId": "R8846356",
+        "region": "US-OR",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.11890151151918,
+          46.2635986
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Tri-Cities Airport",
+        "osmId": "R9887832",
+        "region": "US-WA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384071608,
+          37.622452
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "San Francisco International Airport",
+        "osmId": "W545819287",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.421392984,
+          33.94216755
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Los Angeles International Airport",
+        "osmId": "W649268639",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.540303,
+          33.8246269
+        ]
+      },
+      "properties": {
+        "name": "Palm Springs",
+        "osmId": "R2866486",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.951115789,
+          33.89706715
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Joshua Tree National Park",
+        "osmId": "R6145614",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2188054,
+          33.7192808
+        ]
+      },
+      "properties": {
+        "name": "Indio",
+        "osmId": "R2632192",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0543506,
+          34.1356915
+        ]
+      },
+      "properties": {
+        "name": "Twentynine Palms",
+        "osmId": "R13875015",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5937537,
+          33.6134767
+        ]
+      },
+      "properties": {
+        "name": "Blythe",
+        "osmId": "R111975",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.462841,
+          33.2579507
+        ]
+      },
+      "properties": {
+        "name": "Slab City",
+        "osmId": "N8641401494",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3224495,
+          34.4838502
+        ]
+      },
+      "properties": {
+        "name": "Lake Havasu City",
+        "osmId": "R253596",
+        "region": "US-AZ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.205445,
+          36.7291152
+        ]
+      },
+      "properties": {
+        "name": "Farmington",
+        "osmId": "R171272",
+        "region": "US-NM",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7798078,
+          32.3140354
+        ]
+      },
+      "properties": {
+        "name": "Las Cruces",
+        "osmId": "R171260",
+        "region": "US-NM",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.821581792,
+          37.2395367
+        ]
+      },
+      "properties": {
+        "name": "Durango",
+        "osmId": "R112248",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.45559640928934,
+          37.253776
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Mesa Verde National Park",
+        "osmId": "R5749837",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61226723463207,
+          37.791187050000005
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Great Sand Dunes National Park",
+        "osmId": "R5725308",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.010816,
+          37.2695661
+        ]
+      },
+      "properties": {
+        "name": "Pagosa Springs",
+        "osmId": "R112715",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      },
+      "properties": {
+        "name": "Colorado Springs",
+        "osmId": "N151363387",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      },
+      "properties": {
+        "name": "Denver",
+        "osmId": "R1411339",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.270241,
+          40.0154155
+        ]
+      },
+      "properties": {
+        "name": "Boulder",
+        "osmId": "R112298",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne",
+        "osmId": "R252208",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.609141,
+          38.2544472
+        ]
+      },
+      "properties": {
+        "name": "Pueblo",
+        "osmId": "R112277",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      },
+      "properties": {
+        "name": "Gillette",
+        "osmId": "R252234",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.239981,
+          43.992421
+        ]
+      },
+      "properties": {
+        "name": "Wall",
+        "osmId": "R195006",
+        "region": "US-SD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6627088,
+          41.862302
+        ]
+      },
+      "properties": {
+        "name": "Scottsbluff",
+        "osmId": "R169254",
+        "region": "US-NE",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7436995,
+          30.2711286
+        ]
+      },
+      "properties": {
+        "name": "Austin",
+        "osmId": "R113314",
+        "region": "US-TX",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3676974,
+          29.7589382
+        ]
+      },
+      "properties": {
+        "name": "Houston",
+        "osmId": "R2688911",
+        "region": "US-TX",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7968559,
+          32.7762719
+        ]
+      },
+      "properties": {
+        "name": "Dallas",
+        "osmId": "R6571629",
+        "region": "US-TX",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3327459,
+          32.753177
+        ]
+      },
+      "properties": {
+        "name": "Fort Worth",
+        "osmId": "R115274",
+        "region": "US-TX",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.046522054,
+          32.89651945
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Dallas/Fort Worth International Airport",
+        "osmId": "R1870401",
+        "region": "US-TX",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.685367326,
+          39.8606676
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Denver International Airport",
+        "osmId": "W851424893",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.161119898,
+          36.0861034
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Harry Reid International Airport",
+        "osmId": "W218427190",
+        "region": "US-NV",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.721189917,
+          39.3023103
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Kansas City International Airport",
+        "osmId": "W209241979",
+        "region": "US-MO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.220928054,
+          44.87801905
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Minneapolis-Saint Paul International Airport",
+        "osmId": "W155465349",
+        "region": "US-MN",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.90920911,
+          41.97795725
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "O'Hare International Airport",
+        "osmId": "R13423944",
+        "region": "US-IL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.352975376,
+          42.2056991
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Detroit Metropolitan Airport",
+        "osmId": "R9371952",
+        "region": "US-MI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.73075229745353,
+          42.9402016
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Buffalo-Niagara International Airport",
+        "osmId": "W102748338",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1635262,
+          39.9527237
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia",
+        "osmId": "R188022",
+        "region": "US-PA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "name": "Chicago",
+        "osmId": "R122604",
+        "region": "US-IL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610759,
+          39.2908816
+        ]
+      },
+      "properties": {
+        "name": "Baltimore",
+        "osmId": "R133345",
+        "region": "US-MD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7742984,
+          36.1622767
+        ]
+      },
+      "properties": {
+        "name": "Nashville",
+        "osmId": "R197472",
+        "region": "US-TN",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8430827,
+          35.2272086
+        ]
+      },
+      "properties": {
+        "name": "Charlotte",
+        "osmId": "R177415",
+        "region": "US-NC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0466403,
+          42.3315509
+        ]
+      },
+      "properties": {
+        "name": "Detroit",
+        "osmId": "R134591",
+        "region": "US-MI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0470229,
+          38.8051095
+        ]
+      },
+      "properties": {
+        "name": "Alexandria",
+        "osmId": "R206637",
+        "region": "US-VA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.159444,
+          38.713452
+        ]
+      },
+      "properties": {
+        "name": "Washington",
+        "osmId": "R206980",
+        "region": "US-VA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0128237,
+          38.7831238
+        ]
+      },
+      "properties": {
+        "name": "National Harbor",
+        "osmId": "N3438476063",
+        "region": "US-MD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.945743523,
+          35.21074145
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Charlotte-Douglas International Airport",
+        "osmId": "W209679121",
+        "region": "US-NC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.039465031,
+          32.89929845
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Charleston International Airport",
+        "osmId": "W224433585",
+        "region": "US-SC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9402728,
+          32.7876012
+        ]
+      },
+      "properties": {
+        "name": "Charleston",
+        "osmId": "R194119",
+        "region": "US-SC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7880359,
+          32.7867697
+        ]
+      },
+      "properties": {
+        "name": "Isle of Palms",
+        "osmId": "R192159",
+        "region": "US-SC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3902644,
+          33.7489924
+        ]
+      },
+      "properties": {
+        "name": "Atlanta",
+        "osmId": "R119557",
+        "region": "US-GA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.429271186,
+          33.63779875
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Hartsfield–Jackson Atlanta International Airport",
+        "osmId": "W208889095",
+        "region": "US-GA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.309443098,
+          28.41290355
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Orlando International Airport",
+        "osmId": "W589215792",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.150996731,
+          26.072017
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Fort Lauderdale-Hollywood International Airport",
+        "osmId": "W209681674",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.683087033,
+          36.11958985
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Nashville International Airport",
+        "osmId": "R11657815",
+        "region": "US-TN",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4436018,
+          36.9903199
+        ]
+      },
+      "properties": {
+        "name": "Bowling Green",
+        "osmId": "R130719",
+        "region": "US-KY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4475898,
+          36.3883031
+        ]
+      },
+      "properties": {
+        "name": "Gallatin",
+        "osmId": "R197389",
+        "region": "US-TN",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8024326,
+          33.5206824
+        ]
+      },
+      "properties": {
+        "name": "Birmingham",
+        "osmId": "R111031",
+        "region": "US-AL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3790304,
+          28.5421109
+        ]
+      },
+      "properties": {
+        "name": "Orlando",
+        "osmId": "R1128379",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.458444,
+          27.9477595
+        ]
+      },
+      "properties": {
+        "name": "Tampa",
+        "osmId": "R1216849",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1433786,
+          26.1223084
+        ]
+      },
+      "properties": {
+        "name": "Fort Lauderdale",
+        "osmId": "R117955",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4075838,
+          28.2918995
+        ]
+      },
+      "properties": {
+        "name": "Kissimmee",
+        "osmId": "R117709",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0532942,
+          26.715364
+        ]
+      },
+      "properties": {
+        "name": "West Palm Beach",
+        "osmId": "R117925",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9498042,
+          28.0394654
+        ]
+      },
+      "properties": {
+        "name": "Lakeland",
+        "osmId": "R117730",
+        "region": "US-FL",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723667,
+          40.735657
+        ]
+      },
+      "properties": {
+        "name": "Newark",
+        "osmId": "R170486",
+        "region": "US-NJ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546589,
+          39.7459468
+        ]
+      },
+      "properties": {
+        "name": "Wilmington",
+        "osmId": "R369472",
+        "region": "US-DE",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365427,
+          38.8950368
+        ]
+      },
+      "properties": {
+        "name": "Washington D.C.",
+        "osmId": "R5396194",
+        "region": "US-DC",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039688939,
+          38.85128945
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Ronald Reagan Washington National Airport",
+        "osmId": "R9313825",
+        "region": "US-VA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453484912,
+          38.95226625
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Washington Dulles International Airport",
+        "osmId": "R949847",
+        "region": "US-VA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23521279,
+          39.875018
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Philadelphia International Airport",
+        "osmId": "W113482644",
+        "region": "US-PA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17725485,
+          40.68906405
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Newark Liberty International Airport",
+        "osmId": "W141207228",
+        "region": "US-NJ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.779373375,
+          40.6429479
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "John F. Kennedy International Airport",
+        "osmId": "W158042008",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.873363985,
+          40.7757145
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "LaGuardia Airport",
+        "osmId": "W198597589",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.013640063,
+          42.36317665
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Logan International Airport",
+        "osmId": "W291828579",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.31441197345607,
+          43.6461776
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Portland International Jetport",
+        "osmId": "W224519312",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5387341,
+          41.0534302
+        ]
+      },
+      "properties": {
+        "name": "Stamford",
+        "osmId": "R11065405",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7629097,
+          41.0339862
+        ]
+      },
+      "properties": {
+        "name": "White Plains",
+        "osmId": "R174495",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8987469,
+          40.9312099
+        ]
+      },
+      "properties": {
+        "name": "Yonkers",
+        "osmId": "R174494",
+        "region": "US-NY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250518,
+          41.3082138
+        ]
+      },
+      "properties": {
+        "name": "New Haven",
+        "osmId": "R11065393",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.3289715,
+          41.3159315
+        ]
+      },
+      "properties": {
+        "name": "Old Lyme",
+        "osmId": "R11059180",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0997804,
+          41.3556187
+        ]
+      },
+      "properties": {
+        "name": "New London",
+        "osmId": "R11065869",
+        "region": "US-CT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4867226,
+          41.3653803
+        ]
+      },
+      "properties": {
+        "name": "Point Judith",
+        "osmId": "N158805100",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4495005,
+          41.4501021
+        ]
+      },
+      "properties": {
+        "name": "Narragansett",
+        "osmId": "R4147360",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5394738,
+          41.454944
+        ]
+      },
+      "properties": {
+        "name": "South Kingstown",
+        "osmId": "R7539760",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3389121,
+          42.2103722
+        ]
+      },
+      "properties": {
+        "name": "Great Barrington",
+        "osmId": "R1839550",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3230114,
+          42.308301
+        ]
+      },
+      "properties": {
+        "name": "Stockbridge",
+        "osmId": "R1839568",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.260018,
+          42.451302
+        ]
+      },
+      "properties": {
+        "name": "Pittsfield",
+        "osmId": "R1839563",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5886727,
+          42.1018764
+        ]
+      },
+      "properties": {
+        "name": "Springfield",
+        "osmId": "R1181618",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6151604,
+          42.0688621
+        ]
+      },
+      "properties": {
+        "name": "Agawam",
+        "osmId": "R1181612",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6071119,
+          42.1487691
+        ]
+      },
+      "properties": {
+        "name": "Chicopee",
+        "osmId": "R1181609",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.60765,
+          42.2071434
+        ]
+      },
+      "properties": {
+        "name": "Holyoke",
+        "osmId": "R1181614",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5751341,
+          42.2591392
+        ]
+      },
+      "properties": {
+        "name": "South Hadley",
+        "osmId": "R1839164",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6311006,
+          42.3178989
+        ]
+      },
+      "properties": {
+        "name": "Northampton",
+        "osmId": "R1839161",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5620883,
+          42.35637
+        ]
+      },
+      "properties": {
+        "name": "Hadley",
+        "osmId": "R1839157",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2094566,
+          42.7135472
+        ]
+      },
+      "properties": {
+        "name": "Williamstown",
+        "osmId": "R1839572",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2360643,
+          42.7659465
+        ]
+      },
+      "properties": {
+        "name": "Pownal",
+        "osmId": "R2342566",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0686888,
+          42.7524489
+        ]
+      },
+      "properties": {
+        "name": "Stamford",
+        "osmId": "R2342580",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1118964,
+          42.6990321
+        ]
+      },
+      "properties": {
+        "name": "North Adams",
+        "osmId": "R1839560",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1155216,
+          42.6269809
+        ]
+      },
+      "properties": {
+        "name": "Adams",
+        "osmId": "R1839543",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1615962,
+          42.5621859
+        ]
+      },
+      "properties": {
+        "name": "Cheshire",
+        "osmId": "R1839545",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6002068,
+          42.5876342
+        ]
+      },
+      "properties": {
+        "name": "Greenfield",
+        "osmId": "R1839634",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.535088,
+          42.5356426
+        ]
+      },
+      "properties": {
+        "name": "Montague",
+        "osmId": "R1839631",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.505714,
+          42.3685658
+        ]
+      },
+      "properties": {
+        "name": "Amherst",
+        "osmId": "R1839150",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6175058,
+          42.3895027
+        ]
+      },
+      "properties": {
+        "name": "Hatfield",
+        "osmId": "R1839158",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9831716,
+          42.5823564
+        ]
+      },
+      "properties": {
+        "name": "Gardner",
+        "osmId": "R1844166",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0490326,
+          42.6587935
+        ]
+      },
+      "properties": {
+        "name": "Winchendon",
+        "osmId": "R1844208",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0677077,
+          42.5557546
+        ]
+      },
+      "properties": {
+        "name": "Templeton",
+        "osmId": "R1844199",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0820025,
+          42.0955914
+        ]
+      },
+      "properties": {
+        "name": "Sturbridge",
+        "osmId": "R1844197",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.1030394,
+          42.1922769
+        ]
+      },
+      "properties": {
+        "name": "Brookfield",
+        "osmId": "R1844159",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8119837,
+          42.5903661
+        ]
+      },
+      "properties": {
+        "name": "Fitchburg",
+        "osmId": "R1844165",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7155644,
+          42.6657791
+        ]
+      },
+      "properties": {
+        "name": "Townsend",
+        "osmId": "R1809156",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6030963,
+          42.6697695
+        ]
+      },
+      "properties": {
+        "name": "Pepperell",
+        "osmId": "R1809145",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3518343,
+          42.596876
+        ]
+      },
+      "properties": {
+        "name": "Chelmsford",
+        "osmId": "R1801797",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3161718,
+          42.6334247
+        ]
+      },
+      "properties": {
+        "name": "Lowell",
+        "osmId": "R1805416",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6129907,
+          42.2694308
+        ]
+      },
+      "properties": {
+        "name": "Westborough",
+        "osmId": "R1844206",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6356311,
+          42.0558065
+        ]
+      },
+      "properties": {
+        "name": "Uxbridge",
+        "osmId": "R1844201",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6849585,
+          42.2121887
+        ]
+      },
+      "properties": {
+        "name": "Grafton",
+        "osmId": "R1844167",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5454516,
+          42.0962353
+        ]
+      },
+      "properties": {
+        "name": "Mendon",
+        "osmId": "R1844176",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5192019,
+          42.1413353
+        ]
+      },
+      "properties": {
+        "name": "Milford",
+        "osmId": "R1844177",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4746436,
+          42.0869493
+        ]
+      },
+      "properties": {
+        "name": "Bellingham",
+        "osmId": "R1949524",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5196439,
+          42.2288875
+        ]
+      },
+      "properties": {
+        "name": "Hopkinton",
+        "osmId": "R1865800",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.396725,
+          42.0834313
+        ]
+      },
+      "properties": {
+        "name": "Franklin",
+        "osmId": "R1949630",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4245049,
+          42.2000966
+        ]
+      },
+      "properties": {
+        "name": "Holliston",
+        "osmId": "R1865799",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3967256,
+          42.1417641
+        ]
+      },
+      "properties": {
+        "name": "Medway",
+        "osmId": "R1948253",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3585805,
+          42.1666775
+        ]
+      },
+      "properties": {
+        "name": "Millis",
+        "osmId": "R1948254",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.30546,
+          42.1865609
+        ]
+      },
+      "properties": {
+        "name": "Medfield",
+        "osmId": "R1948252",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3250564,
+          42.1195426
+        ]
+      },
+      "properties": {
+        "name": "Norfolk",
+        "osmId": "R1949269",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3281114,
+          42.0667652
+        ]
+      },
+      "properties": {
+        "name": "Wrentham",
+        "osmId": "R1949270",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5411133,
+          42.0178352
+        ]
+      },
+      "properties": {
+        "name": "Blackstone",
+        "osmId": "R1844157",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6977885,
+          41.9699753
+        ]
+      },
+      "properties": {
+        "name": "Burrillville",
+        "osmId": "R7635378",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5495071,
+          41.9667652
+        ]
+      },
+      "properties": {
+        "name": "North Smithfield",
+        "osmId": "R7686761",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4328363,
+          41.9667656
+        ]
+      },
+      "properties": {
+        "name": "Cumberland",
+        "osmId": "R1949495",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4120838,
+          41.9881752
+        ]
+      },
+      "properties": {
+        "name": "Diamond Hill",
+        "osmId": "N158827161",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4663863,
+          41.9529237
+        ]
+      },
+      "properties": {
+        "name": "Lincoln",
+        "osmId": "R7686740",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.549507,
+          41.9220433
+        ]
+      },
+      "properties": {
+        "name": "Smithfield",
+        "osmId": "R7686760",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5412101,
+          41.8310404
+        ]
+      },
+      "properties": {
+        "name": "Johnston",
+        "osmId": "R7670016",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3825558,
+          41.878711
+        ]
+      },
+      "properties": {
+        "name": "Pawtucket",
+        "osmId": "R191212",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4371257,
+          41.7809588
+        ]
+      },
+      "properties": {
+        "name": "Cranston",
+        "osmId": "R392908",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5236633,
+          41.7063679
+        ]
+      },
+      "properties": {
+        "name": "West Warwick",
+        "osmId": "R191214",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.42858822,
+          41.72243995
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Rhode Island T. F. Green International Airport",
+        "osmId": "W209870429",
+        "region": "US-RI",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0780195,
+          41.6220399
+        ]
+      },
+      "properties": {
+        "name": "Westport",
+        "osmId": "R2396251",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9879928,
+          41.6332267
+        ]
+      },
+      "properties": {
+        "name": "Dartmouth",
+        "osmId": "R2396244",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.934205,
+          41.6362152
+        ]
+      },
+      "properties": {
+        "name": "New Bedford",
+        "osmId": "R2396248",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7217017,
+          41.7626037
+        ]
+      },
+      "properties": {
+        "name": "Wareham",
+        "osmId": "R2387533",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5989196,
+          41.7412166
+        ]
+      },
+      "properties": {
+        "name": "Bourne",
+        "osmId": "R2387625",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6147519,
+          41.5514979
+        ]
+      },
+      "properties": {
+        "name": "Falmouth",
+        "osmId": "R2387630",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4811383,
+          41.6484421
+        ]
+      },
+      "properties": {
+        "name": "Mashpee",
+        "osmId": "R2387632",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5684713,
+          41.4538523
+        ]
+      },
+      "properties": {
+        "name": "Oak Bluffs",
+        "osmId": "R2387203",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5133599,
+          41.3890052
+        ]
+      },
+      "properties": {
+        "name": "Edgartown",
+        "osmId": "R2387201",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6156969,
+          41.4576223
+        ]
+      },
+      "properties": {
+        "name": "Tisbury",
+        "osmId": "R2387204",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2823732,
+          41.6534847
+        ]
+      },
+      "properties": {
+        "name": "Hyannis",
+        "osmId": "N158804304",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3036163,
+          41.7016936
+        ]
+      },
+      "properties": {
+        "name": "Barnstable",
+        "osmId": "R2387624",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4968152,
+          41.7579043
+        ]
+      },
+      "properties": {
+        "name": "Sandwich",
+        "osmId": "R2387635",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2286314,
+          41.7056656
+        ]
+      },
+      "properties": {
+        "name": "Yarmouth",
+        "osmId": "R2387638",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1939087,
+          41.7353872
+        ]
+      },
+      "properties": {
+        "name": "Dennis",
+        "osmId": "R2387628",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.0758508,
+          41.6862224
+        ]
+      },
+      "properties": {
+        "name": "Harwich",
+        "osmId": "R2387631",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9597376,
+          41.6820563
+        ]
+      },
+      "properties": {
+        "name": "Chatham",
+        "osmId": "R2387627",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9897397,
+          41.7898313
+        ]
+      },
+      "properties": {
+        "name": "Orleans",
+        "osmId": "R2387633",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1546367,
+          41.7010642
+        ]
+      },
+      "properties": {
+        "name": "Fall River",
+        "osmId": "R2396246",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.128656,
+          41.7695463
+        ]
+      },
+      "properties": {
+        "name": "Somerset",
+        "osmId": "R2396249",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1897684,
+          41.7481575
+        ]
+      },
+      "properties": {
+        "name": "Swansea",
+        "osmId": "R2396250",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3369973,
+          41.808434
+        ]
+      },
+      "properties": {
+        "name": "Seekonk",
+        "osmId": "R1949886",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11113,
+          41.8946107
+        ]
+      },
+      "properties": {
+        "name": "Taunton",
+        "osmId": "R2402321",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0731008,
+          41.9487118
+        ]
+      },
+      "properties": {
+        "name": "Raynham",
+        "osmId": "R2402315",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2806515,
+          41.9438129
+        ]
+      },
+      "properties": {
+        "name": "Attleboro",
+        "osmId": "R1946500",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3328328,
+          41.9834324
+        ]
+      },
+      "properties": {
+        "name": "North Attleborough",
+        "osmId": "R1948162",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3328331,
+          42.0042656
+        ]
+      },
+      "properties": {
+        "name": "Plainville",
+        "osmId": "R1948163",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2478308,
+          42.0653768
+        ]
+      },
+      "properties": {
+        "name": "Foxborough",
+        "osmId": "R1948160",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2189405,
+          42.0334326
+        ]
+      },
+      "properties": {
+        "name": "Mansfield",
+        "osmId": "R1948161",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1286594,
+          42.0245442
+        ]
+      },
+      "properties": {
+        "name": "Easton",
+        "osmId": "R2402313",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1869939,
+          41.9667666
+        ]
+      },
+      "properties": {
+        "name": "Norton",
+        "osmId": "R1946501",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9750426,
+          41.9903787
+        ]
+      },
+      "properties": {
+        "name": "Bridgewater",
+        "osmId": "R2395776",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0183787,
+          42.0834335
+        ]
+      },
+      "properties": {
+        "name": "Brockton",
+        "osmId": "R2395709",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.019004,
+          42.0219112
+        ]
+      },
+      "properties": {
+        "name": "West Bridgewater",
+        "osmId": "R2395778",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1022015,
+          42.1252079
+        ]
+      },
+      "properties": {
+        "name": "Stoughton",
+        "osmId": "R1946483",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7939307,
+          42.1617681
+        ]
+      },
+      "properties": {
+        "name": "Norwell",
+        "osmId": "R2395689",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0424838,
+          42.1618005
+        ]
+      },
+      "properties": {
+        "name": "Randolph",
+        "osmId": "R2388232",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0041229,
+          42.2205956
+        ]
+      },
+      "properties": {
+        "name": "Braintree",
+        "osmId": "R2388233",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8897676,
+          42.2417669
+        ]
+      },
+      "properties": {
+        "name": "Hingham",
+        "osmId": "R2387525",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9078243,
+          42.3020436
+        ]
+      },
+      "properties": {
+        "name": "Hull",
+        "osmId": "R2387526",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1447732,
+          42.1584324
+        ]
+      },
+      "properties": {
+        "name": "Canton",
+        "osmId": "R2389799",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1787282,
+          42.1237328
+        ]
+      },
+      "properties": {
+        "name": "Sharon",
+        "osmId": "R1948164",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2494985,
+          42.1417653
+        ]
+      },
+      "properties": {
+        "name": "Walpole",
+        "osmId": "R2389805",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1994976,
+          42.194543
+        ]
+      },
+      "properties": {
+        "name": "Norwood",
+        "osmId": "R2389803",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2244987,
+          42.2139873
+        ]
+      },
+      "properties": {
+        "name": "Westwood",
+        "osmId": "R2389802",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.065573,
+          42.2501425
+        ]
+      },
+      "properties": {
+        "name": "Milton",
+        "osmId": "R2315739",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1755732,
+          42.2489143
+        ]
+      },
+      "properties": {
+        "name": "Dedham",
+        "osmId": "R2306370",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0037374,
+          42.2509914
+        ]
+      },
+      "properties": {
+        "name": "Quincy",
+        "osmId": "R2387397",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9391625,
+          42.2212188
+        ]
+      },
+      "properties": {
+        "name": "Weymouth",
+        "osmId": "R2387395",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3701417,
+          42.2397842
+        ]
+      },
+      "properties": {
+        "name": "Sherborn",
+        "osmId": "R1863554",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4413097,
+          42.3095704
+        ]
+      },
+      "properties": {
+        "name": "Framingham",
+        "osmId": "R1863552",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.346996,
+          42.2836393
+        ]
+      },
+      "properties": {
+        "name": "Natick",
+        "osmId": "R1865757",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2360624,
+          42.2802645
+        ]
+      },
+      "properties": {
+        "name": "Needham",
+        "osmId": "R1943944",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2925571,
+          42.2964859
+        ]
+      },
+      "properties": {
+        "name": "Wellesley",
+        "osmId": "R1943945",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2092214,
+          42.3370414
+        ]
+      },
+      "properties": {
+        "name": "Newton",
+        "osmId": "R1942017",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1056157,
+          42.3750997
+        ]
+      },
+      "properties": {
+        "name": "Cambridge",
+        "osmId": "R1933745",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.982827,
+          42.3750976
+        ]
+      },
+      "properties": {
+        "name": "Winthrop",
+        "osmId": "R2362284",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0119948,
+          42.4084302
+        ]
+      },
+      "properties": {
+        "name": "Revere",
+        "osmId": "R2362362",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0328284,
+          42.3917638
+        ]
+      },
+      "properties": {
+        "name": "Chelsea",
+        "osmId": "R2362263",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0536625,
+          42.40843
+        ]
+      },
+      "properties": {
+        "name": "Everett",
+        "osmId": "R1842139",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066163,
+          42.4250964
+        ]
+      },
+      "properties": {
+        "name": "Malden",
+        "osmId": "R1842140",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1061639,
+          42.4184296
+        ]
+      },
+      "properties": {
+        "name": "Medford",
+        "osmId": "R1931997",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1786655,
+          42.3959296
+        ]
+      },
+      "properties": {
+        "name": "Belmont",
+        "osmId": "R1933718",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1564428,
+          42.4153739
+        ]
+      },
+      "properties": {
+        "name": "Arlington",
+        "osmId": "R1933055",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2358004,
+          42.3756401
+        ]
+      },
+      "properties": {
+        "name": "Waltham",
+        "osmId": "R1865772",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1828321,
+          42.3709299
+        ]
+      },
+      "properties": {
+        "name": "Watertown",
+        "osmId": "R1933719",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3495035,
+          42.5292605
+        ]
+      },
+      "properties": {
+        "name": "Carlisle",
+        "osmId": "R1817757",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.268947,
+          42.5584264
+        ]
+      },
+      "properties": {
+        "name": "Billerica",
+        "osmId": "R1838336",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2817947,
+          42.4917301
+        ]
+      },
+      "properties": {
+        "name": "Bedford",
+        "osmId": "R1838335",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1956111,
+          42.5048167
+        ]
+      },
+      "properties": {
+        "name": "Burlington",
+        "osmId": "R1838337",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3488963,
+          42.4605189
+        ]
+      },
+      "properties": {
+        "name": "Concord",
+        "osmId": "R1840166",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2245003,
+          42.4473175
+        ]
+      },
+      "properties": {
+        "name": "Lexington",
+        "osmId": "R1840167",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1522766,
+          42.4792618
+        ]
+      },
+      "properties": {
+        "name": "Woburn",
+        "osmId": "R1931999",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.064182,
+          42.4564323
+        ]
+      },
+      "properties": {
+        "name": "Melrose",
+        "osmId": "R1842125",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1369982,
+          42.4523178
+        ]
+      },
+      "properties": {
+        "name": "Winchester",
+        "osmId": "R1931998",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.010051,
+          42.4648183
+        ]
+      },
+      "properties": {
+        "name": "Saugus",
+        "osmId": "R2372922",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9494939,
+          42.466763
+        ]
+      },
+      "properties": {
+        "name": "Lynn",
+        "osmId": "R2372904",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9189371,
+          42.4264859
+        ]
+      },
+      "properties": {
+        "name": "Nahant",
+        "osmId": "R2362391",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9171507,
+          42.4699241
+        ]
+      },
+      "properties": {
+        "name": "Swampscott",
+        "osmId": "R2373034",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0953314,
+          42.5256502
+        ]
+      },
+      "properties": {
+        "name": "Reading",
+        "osmId": "R1842127",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0481084,
+          42.5389836
+        ]
+      },
+      "properties": {
+        "name": "Lynnfield",
+        "osmId": "R2355160",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0728306,
+          42.506484
+        ]
+      },
+      "properties": {
+        "name": "Wakefield",
+        "osmId": "R1842129",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9286609,
+          42.5278731
+        ]
+      },
+      "properties": {
+        "name": "Peabody",
+        "osmId": "R2355161",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8967226,
+          42.5195292
+        ]
+      },
+      "properties": {
+        "name": "Salem",
+        "osmId": "N158853736",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9368313,
+          42.566751
+        ]
+      },
+      "properties": {
+        "name": "Danvers",
+        "osmId": "R2355159",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8781883,
+          42.5489744
+        ]
+      },
+      "properties": {
+        "name": "Beverly",
+        "osmId": "N158898246",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8411583,
+          42.679273
+        ]
+      },
+      "properties": {
+        "name": "Ipswich",
+        "osmId": "R2379500",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1631137,
+          42.7070354
+        ]
+      },
+      "properties": {
+        "name": "Lawrence",
+        "osmId": "R1840197",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0767724,
+          42.7777829
+        ]
+      },
+      "properties": {
+        "name": "Haverhill",
+        "osmId": "R1931984",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1908924,
+          42.7262016
+        ]
+      },
+      "properties": {
+        "name": "Methuen",
+        "osmId": "R1840198",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8606083,
+          42.8417577
+        ]
+      },
+      "properties": {
+        "name": "Salisbury",
+        "osmId": "R2385580",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.824896,
+          42.9304376
+        ]
+      },
+      "properties": {
+        "name": "Hampton",
+        "osmId": "R71885",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0947805,
+          42.8364781
+        ]
+      },
+      "properties": {
+        "name": "Plastow",
+        "osmId": "R78756",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4677032,
+          42.7656251
+        ]
+      },
+      "properties": {
+        "name": "Nashua",
+        "osmId": "R318807",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0022786,
+          42.8306456
+        ]
+      },
+      "properties": {
+        "name": "Merrimac",
+        "osmId": "R1965521",
+        "region": "US-MA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2784264,
+          42.933597
+        ]
+      },
+      "properties": {
+        "name": "Keene",
+        "osmId": "R451336",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4259189,
+          43.07943
+        ]
+      },
+      "properties": {
+        "name": "Walpole",
+        "osmId": "R451334",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5572913,
+          42.8507588
+        ]
+      },
+      "properties": {
+        "name": "Brattleboro",
+        "osmId": "R2017153",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9802745,
+          43.6063341
+        ]
+      },
+      "properties": {
+        "name": "Rutland City",
+        "osmId": "R199083",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9476604,
+          43.707734
+        ]
+      },
+      "properties": {
+        "name": "Chittenden",
+        "osmId": "R8903548",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8223267,
+          44.1924801
+        ]
+      },
+      "properties": {
+        "name": "Waitsfield",
+        "osmId": "R8897602",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5751208,
+          44.2602164
+        ]
+      },
+      "properties": {
+        "name": "Montpelier",
+        "osmId": "R199088",
+        "region": "US-VT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3915411,
+          45.0514513
+        ]
+      },
+      "properties": {
+        "name": "Pittsburg",
+        "osmId": "R2049059",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1836547,
+          44.4688795
+        ]
+      },
+      "properties": {
+        "name": "Berlin",
+        "osmId": "R170184",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.474991,
+          44.419069
+        ]
+      },
+      "properties": {
+        "name": "Jefferson",
+        "osmId": "R2051757",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.181107,
+          44.144276
+        ]
+      },
+      "properties": {
+        "name": "Jackson",
+        "osmId": "R2023980",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.283417,
+          44.078213
+        ]
+      },
+      "properties": {
+        "name": "Bartlett",
+        "osmId": "R2023977",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7478468,
+          44.2273919
+        ]
+      },
+      "properties": {
+        "name": "Franconia",
+        "osmId": "R2035535",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.120682,
+          43.979475
+        ]
+      },
+      "properties": {
+        "name": "Conway",
+        "osmId": "R2023141",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1282572,
+          44.0537103
+        ]
+      },
+      "properties": {
+        "name": "North Conway",
+        "osmId": "N158846609",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.981293,
+          44.016521
+        ]
+      },
+      "properties": {
+        "name": "Fryeburg",
+        "osmId": "R132839",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3974,
+          43.755225
+        ]
+      },
+      "properties": {
+        "name": "Moultonborough",
+        "osmId": "R2023494",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.500397,
+          43.657937
+        ]
+      },
+      "properties": {
+        "name": "Meredith",
+        "osmId": "R367447",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.470351,
+          43.5278546
+        ]
+      },
+      "properties": {
+        "name": "Laconia",
+        "osmId": "R170185",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.736847,
+          43.088448
+        ]
+      },
+      "properties": {
+        "name": "Kittery",
+        "osmId": "R2019528",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7548621,
+          43.0702223
+        ]
+      },
+      "properties": {
+        "name": "Portsmouth",
+        "osmId": "R70967",
+        "region": "US-NH",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6493185,
+          43.1520973
+        ]
+      },
+      "properties": {
+        "name": "York",
+        "osmId": "R2020262",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5992201,
+          43.2489755
+        ]
+      },
+      "properties": {
+        "name": "Ogunquit",
+        "osmId": "R2021457",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.580978,
+          43.322181
+        ]
+      },
+      "properties": {
+        "name": "Wells",
+        "osmId": "R2021560",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.477295,
+          43.362131
+        ]
+      },
+      "properties": {
+        "name": "Kennebunkport",
+        "osmId": "R2021557",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4778292,
+          43.3825857
+        ]
+      },
+      "properties": {
+        "name": "Arundel",
+        "osmId": "R2021553",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4533844,
+          43.4925843
+        ]
+      },
+      "properties": {
+        "name": "Biddeford",
+        "osmId": "R2021554",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.377731,
+          43.517684
+        ]
+      },
+      "properties": {
+        "name": "Old Orchard Beach",
+        "osmId": "R2021558",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3395776,
+          43.5909038
+        ]
+      },
+      "properties": {
+        "name": "Scarborough",
+        "osmId": "R12166255",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2289333,
+          43.5931434
+        ]
+      },
+      "properties": {
+        "name": "Cape Elizabeth",
+        "osmId": "R11155161",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2408811,
+          43.6414716
+        ]
+      },
+      "properties": {
+        "name": "South Portland",
+        "osmId": "R132502",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3663874,
+          43.6763036
+        ]
+      },
+      "properties": {
+        "name": "Westbrook",
+        "osmId": "R132501",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.47519593,
+          43.71559405
+        ]
+      },
+      "properties": {
+        "name": "Gorham",
+        "osmId": "R12166365",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.551453,
+          43.735879
+        ]
+      },
+      "properties": {
+        "name": "Standish",
+        "osmId": "R12166345",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.909195,
+          43.938451
+        ]
+      },
+      "properties": {
+        "name": "Brownfield",
+        "osmId": "R12162260",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.803452,
+          43.970581
+        ]
+      },
+      "properties": {
+        "name": "Denmark",
+        "osmId": "R12162259",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4083434,
+          43.7894155
+        ]
+      },
+      "properties": {
+        "name": "Windham",
+        "osmId": "R12166373",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3303592,
+          43.8860922
+        ]
+      },
+      "properties": {
+        "name": "Gray",
+        "osmId": "R12171328",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2487493,
+          43.8289389
+        ]
+      },
+      "properties": {
+        "name": "North Yarmouth",
+        "osmId": "R12171326",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2581692,
+          43.7966548
+        ]
+      },
+      "properties": {
+        "name": "Cumberland",
+        "osmId": "R12170670",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1867161,
+          43.8006354
+        ]
+      },
+      "properties": {
+        "name": "Yarmouth",
+        "osmId": "R132559",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.241993,
+          43.729525
+        ]
+      },
+      "properties": {
+        "name": "Falmouth",
+        "osmId": "R12166342",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.11995036819707,
+          43.7341968
+        ]
+      },
+      "properties": {
+        "name": "Great Chebeague Island",
+        "osmId": "W219705230",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.18517872368881,
+          43.6919143
+        ]
+      },
+      "properties": {
+        "name": "Cow Island",
+        "osmId": "W219705235",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.19646707542384,
+          43.679836550000005
+        ]
+      },
+      "properties": {
+        "name": "Great Diamond Island",
+        "osmId": "W219705195",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.187951132,
+          43.66253645
+        ]
+      },
+      "properties": {
+        "name": "Peaks Island",
+        "osmId": "W219705193",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.208079777,
+          43.66678465
+        ]
+      },
+      "properties": {
+        "name": "Little Diamond Island",
+        "osmId": "W22163860",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.99434992546531,
+          43.73356205
+        ]
+      },
+      "properties": {
+        "name": "Bailey Island",
+        "osmId": "R5471930",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.23143672995208,
+          43.68910305
+        ]
+      },
+      "properties": {
+        "name": "Mackworth Island",
+        "osmId": "W219705231",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96497497313277,
+          43.77249795
+        ]
+      },
+      "properties": {
+        "name": "Orr's Island",
+        "osmId": "R17584019",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.93815377476409,
+          43.81237215
+        ]
+      },
+      "properties": {
+        "name": "Sebascodegan Island",
+        "osmId": "R5598212",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.10376,
+          43.857307
+        ]
+      },
+      "properties": {
+        "name": "Freeport",
+        "osmId": "R132799",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9653278,
+          43.9145244
+        ]
+      },
+      "properties": {
+        "name": "Brunswick",
+        "osmId": "R12170369",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.820862,
+          43.910755
+        ]
+      },
+      "properties": {
+        "name": "Bath",
+        "osmId": "R132519",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.282974,
+          43.963168
+        ]
+      },
+      "properties": {
+        "name": "New Gloucester",
+        "osmId": "R12171327",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.123891,
+          43.9750586
+        ]
+      },
+      "properties": {
+        "name": "Durham",
+        "osmId": "R12172425",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1835179,
+          43.8922563
+        ]
+      },
+      "properties": {
+        "name": "Pownal",
+        "osmId": "R12171325",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1044975,
+          44.0314649
+        ]
+      },
+      "properties": {
+        "name": "Lisbon",
+        "osmId": "R12172697",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.899489,
+          44.0088293
+        ]
+      },
+      "properties": {
+        "name": "Bowdoinham",
+        "osmId": "R12180955",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8644316,
+          43.9132054
+        ]
+      },
+      "properties": {
+        "name": "West Bath",
+        "osmId": "R12172659",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9758839,
+          43.9275797
+        ]
+      },
+      "properties": {
+        "name": "Topsham",
+        "osmId": "R12180944",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9348805,
+          43.8075279
+        ]
+      },
+      "properties": {
+        "name": "Harpswell",
+        "osmId": "R12170309",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7781013,
+          43.8498038
+        ]
+      },
+      "properties": {
+        "name": "Arrowsic",
+        "osmId": "R12172681",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.8147684,
+          43.820638
+        ]
+      },
+      "properties": {
+        "name": "Phippsburg",
+        "osmId": "R12172667",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.69959778779725,
+          43.9208961
+        ]
+      },
+      "properties": {
+        "name": "Westport Island",
+        "osmId": "R5598213",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6345118,
+          43.8758217
+        ]
+      },
+      "properties": {
+        "name": "Boothbay",
+        "osmId": "R4112005",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.66568,
+          44.003187
+        ]
+      },
+      "properties": {
+        "name": "Wiscasset",
+        "osmId": "R132815",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5186585,
+          44.0328573
+        ]
+      },
+      "properties": {
+        "name": "Damariscotta",
+        "osmId": "R12194346",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2561671,
+          44.2564588
+        ]
+      },
+      "properties": {
+        "name": "Turner",
+        "osmId": "R12180993",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.365372,
+          44.289944
+        ]
+      },
+      "properties": {
+        "name": "Buckfield",
+        "osmId": "R12181043",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.493774,
+          44.131957
+        ]
+      },
+      "properties": {
+        "name": "Oxford",
+        "osmId": "R132841",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.394211,
+          44.060946
+        ]
+      },
+      "properties": {
+        "name": "Poland",
+        "osmId": "R12172401",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.713501,
+          44.055025
+        ]
+      },
+      "properties": {
+        "name": "Bridgton",
+        "osmId": "R132803",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2311655,
+          44.0978509
+        ]
+      },
+      "properties": {
+        "name": "Auburn",
+        "osmId": "R132522",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.545273,
+          44.214202
+        ]
+      },
+      "properties": {
+        "name": "Norway",
+        "osmId": "R132570",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5462077,
+          44.5466408
+        ]
+      },
+      "properties": {
+        "name": "Rumford",
+        "osmId": "R132576",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.775543,
+          44.230441
+        ]
+      },
+      "properties": {
+        "name": "Gardiner",
+        "osmId": "R132534",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7904822,
+          44.2872014
+        ]
+      },
+      "properties": {
+        "name": "Hallowell",
+        "osmId": "R132531",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7170797,
+          44.2503124
+        ]
+      },
+      "properties": {
+        "name": "Chelsea",
+        "osmId": "R12189658",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.580599,
+          44.3106264
+        ]
+      },
+      "properties": {
+        "name": "Windsor",
+        "osmId": "R12189765",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.489212,
+          44.309601
+        ]
+      },
+      "properties": {
+        "name": "Somerville",
+        "osmId": "R12194355",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6253223,
+          44.1700735
+        ]
+      },
+      "properties": {
+        "name": "Whitefield",
+        "osmId": "R12194347",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.375916,
+          44.095476
+        ]
+      },
+      "properties": {
+        "name": "Waldoboro",
+        "osmId": "R132574",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1817103,
+          44.0789697
+        ]
+      },
+      "properties": {
+        "name": "Thomaston",
+        "osmId": "R12194417",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1989341,
+          44.0164709
+        ]
+      },
+      "properties": {
+        "name": "Saint George",
+        "osmId": "R12194365",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.857048275,
+          44.0816534
+        ]
+      },
+      "properties": {
+        "name": "Vinalhaven Island",
+        "osmId": "R5581421",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.313374936,
+          43.76526615
+        ]
+      },
+      "properties": {
+        "name": "Monhegan Island",
+        "osmId": "W21906696",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1278199,
+          44.0514702
+        ]
+      },
+      "properties": {
+        "name": "South Thomaston",
+        "osmId": "R12194403",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0571014,
+          44.0823473
+        ]
+      },
+      "properties": {
+        "name": "Owls Head",
+        "osmId": "R12194399",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.065552,
+          44.210265
+        ]
+      },
+      "properties": {
+        "name": "Camden",
+        "osmId": "R132832",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.1075562,
+          44.1036988
+        ]
+      },
+      "properties": {
+        "name": "Rockland",
+        "osmId": "R132584",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.874664,
+          44.128507
+        ]
+      },
+      "properties": {
+        "name": "North Haven",
+        "osmId": "R12194406",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0761491,
+          44.1845236
+        ]
+      },
+      "properties": {
+        "name": "Rockport",
+        "osmId": "R12194435",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.158936,
+          44.265363
+        ]
+      },
+      "properties": {
+        "name": "Hope",
+        "osmId": "R12194436",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.274292,
+          44.211741
+        ]
+      },
+      "properties": {
+        "name": "Union",
+        "osmId": "R12194421",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.250946,
+          44.289452
+        ]
+      },
+      "properties": {
+        "name": "Appleton",
+        "osmId": "R12194422",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.961422,
+          44.3378552
+        ]
+      },
+      "properties": {
+        "name": "Northport",
+        "osmId": "R12200056",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0086453,
+          44.2811892
+        ]
+      },
+      "properties": {
+        "name": "Lincolnville",
+        "osmId": "R12200057",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.0078782,
+          44.4261864
+        ]
+      },
+      "properties": {
+        "name": "Belfast",
+        "osmId": "R132579",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.9241995,
+          44.4584089
+        ]
+      },
+      "properties": {
+        "name": "Searsport",
+        "osmId": "R132594",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.621065832,
+          44.0480043
+        ]
+      },
+      "properties": {
+        "name": "Isle Au Haut",
+        "osmId": "R3998566",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.667297,
+          44.156593
+        ]
+      },
+      "properties": {
+        "name": "Stonington",
+        "osmId": "R12199965",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.677597,
+          44.224044
+        ]
+      },
+      "properties": {
+        "name": "Deer Isle",
+        "osmId": "R12199972",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4516861,
+          44.145082
+        ]
+      },
+      "properties": {
+        "name": "Swan's Island",
+        "osmId": "R12196932",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7955879,
+          44.5736852
+        ]
+      },
+      "properties": {
+        "name": "Bucksport",
+        "osmId": "R12203904",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4201819,
+          44.5434831
+        ]
+      },
+      "properties": {
+        "name": "Ellsworth",
+        "osmId": "R132581",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3250168,
+          44.2798024
+        ]
+      },
+      "properties": {
+        "name": "Southwest Harbor",
+        "osmId": "R12199634",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3435443,
+          44.3486501
+        ]
+      },
+      "properties": {
+        "name": "Mount Desert",
+        "osmId": "R12201628",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3514062,
+          44.2536915
+        ]
+      },
+      "properties": {
+        "name": "Tremont",
+        "osmId": "R12201618",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.2897381,
+          44.2942468
+        ]
+      },
+      "properties": {
+        "name": "Northeast Harbor",
+        "osmId": "N158817028",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.083649,
+          44.395523
+        ]
+      },
+      "properties": {
+        "name": "Winter Harbor",
+        "osmId": "R12198745",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.1772341,
+          44.4734117
+        ]
+      },
+      "properties": {
+        "name": "Sorrento",
+        "osmId": "R12203622",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9652809,
+          44.5106339
+        ]
+      },
+      "properties": {
+        "name": "Steuben",
+        "osmId": "R12198850",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.9258366,
+          44.6072991
+        ]
+      },
+      "properties": {
+        "name": "Cherryfield",
+        "osmId": "R12199555",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.810364,
+          44.61931
+        ]
+      },
+      "properties": {
+        "name": "Harrington",
+        "osmId": "R12199106",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.727369,
+          44.6537811
+        ]
+      },
+      "properties": {
+        "name": "Columbia Falls",
+        "osmId": "R12199626",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.598877,
+          44.533227
+        ]
+      },
+      "properties": {
+        "name": "Jonesport",
+        "osmId": "R12199165",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.6108005007755,
+          44.5126085
+        ]
+      },
+      "properties": {
+        "name": "Beals Island",
+        "osmId": "W220250837",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.461548,
+          44.715514
+        ]
+      },
+      "properties": {
+        "name": "Machias",
+        "osmId": "R132586",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2038307,
+          44.6573652
+        ]
+      },
+      "properties": {
+        "name": "Cutler",
+        "osmId": "R12199254",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.984329,
+          44.860736
+        ]
+      },
+      "properties": {
+        "name": "Lubec",
+        "osmId": "R12199300",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9900876,
+          44.9054417
+        ]
+      },
+      "properties": {
+        "name": "Eastport",
+        "osmId": "R132577",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.356491,
+          45.038597
+        ]
+      },
+      "properties": {
+        "name": "Meddybemps",
+        "osmId": "R12199403",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.2781424,
+          45.189032
+        ]
+      },
+      "properties": {
+        "name": "Calais",
+        "osmId": "R132578",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5906101,
+          45.4594907
+        ]
+      },
+      "properties": {
+        "name": "Greenville",
+        "osmId": "R132690",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2539833,
+          45.6237632
+        ]
+      },
+      "properties": {
+        "name": "Jackman",
+        "osmId": "R12194520",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4784009,
+          45.2172755
+        ]
+      },
+      "properties": {
+        "name": "Eustis",
+        "osmId": "R12238847",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2120112,
+          45.0778332
+        ]
+      },
+      "properties": {
+        "name": "Carrabassett Valley",
+        "osmId": "R12181059",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.4406231,
+          45.1411653
+        ]
+      },
+      "properties": {
+        "name": "Stratton",
+        "osmId": "N158844492",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.154572,
+          44.959454
+        ]
+      },
+      "properties": {
+        "name": "Kingfield",
+        "osmId": "R12184708",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.643463,
+          44.966741
+        ]
+      },
+      "properties": {
+        "name": "Rangeley",
+        "osmId": "R12184688",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.719238,
+          44.765262
+        ]
+      },
+      "properties": {
+        "name": "Skowhegan",
+        "osmId": "R132565",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.151825,
+          44.671094
+        ]
+      },
+      "properties": {
+        "name": "Farmington",
+        "osmId": "R12184751",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6317121,
+          44.5520105
+        ]
+      },
+      "properties": {
+        "name": "Waterville",
+        "osmId": "R132529",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5028049,
+          44.6371378
+        ]
+      },
+      "properties": {
+        "name": "Clinton",
+        "osmId": "R132834",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.791092,
+          44.404354
+        ]
+      },
+      "properties": {
+        "name": "Bethel",
+        "osmId": "R12165784",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2446826,
+          45.5808831
+        ]
+      },
+      "properties": {
+        "name": "Golden Lake",
+        "osmId": "N4501612101",
+        "region": "CA-ON",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5891426,
+          46.11588
+        ]
+      },
+      "properties": {
+        "name": "Mont-Tremblant",
+        "osmId": "R7362395",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7530656,
+          45.5757802
+        ]
+      },
+      "properties": {
+        "name": "Laval",
+        "osmId": "R3532125",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2533401,
+          45.3056879
+        ]
+      },
+      "properties": {
+        "name": "Saint-Jean-sur-Richelieu",
+        "osmId": "R1600484",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.889038,
+          45.403271
+        ]
+      },
+      "properties": {
+        "name": "Sherbrooke",
+        "osmId": "R5915931",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3584717,
+          46.8063745
+        ]
+      },
+      "properties": {
+        "name": "L'Ancienne-Lorette",
+        "osmId": "R7716093",
+        "region": "CA-QC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113952,
+          49.2608724
+        ]
+      },
+      "properties": {
+        "name": "Vancouver",
+        "osmId": "R1852574",
+        "region": "CA-BC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.179864245,
+          49.193044
+        ]
+      },
+      "properties": {
+        "type": "airport",
+        "name": "Vancouver International Airport",
+        "osmId": "R11680231",
+        "region": "CA-BC",
+        "country": "Canada",
+        "countryCode": "CA",
+        "flag": "🇨🇦",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.56068933143061,
+          44.6200885
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Yellowstone National Park",
+        "osmId": "R1453306",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.648794777,
+          43.81056675
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Grand Teton National Park",
+        "osmId": "R1492555",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.361662896,
+          43.52710585
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Badlands National Park",
+        "osmId": "R5731065",
+        "region": "US-SD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.292896037,
+          36.30785475
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Grand Canyon National Park",
+        "osmId": "R183377",
+        "region": "US-AZ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.872352226,
+          58.8130745
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Glacier Bay National Park",
+        "osmId": "R6077677",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08839086763231,
+          36.4702428
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Death Valley National Park",
+        "osmId": "R174732",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.050500907,
+          41.76807455
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Redwood National Park",
+        "osmId": "R215231",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.51646348068644,
+          37.83930035
+        ]
+      },
+      "properties": {
+        "type": "park",
+        "name": "Yosemite National Park",
+        "osmId": "R1643367",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.240786481,
+          44.33308685
+        ]
+      },
+      "properties": {
+        "name": "Mount Desert Island",
+        "osmId": "R3954405",
+        "region": "US-ME",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    }
+  ]
+}

@@ -50,6 +50,7 @@ const { seo } = Astro.props;
     <meta property="og:title" content={seo.title} />
     <meta property="og:description" content={seo.description} />
     <meta property="og:image" content={identity.logo} />
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.10.0/mapbox-gl.css" rel="stylesheet" />
     <script
       src="https://cdn.counter.dev/script.js"
       is:inline
@@ -170,6 +171,10 @@ const { seo } = Astro.props;
     content: "👉 ";
   }
 
+  details[open] > summary::marker {
+    content: "👇 ";
+  }
+
   details > summary {
     color: rgba(255, 255, 255, 0.75);
     font-weight: 700;
@@ -186,9 +191,5 @@ const { seo } = Astro.props;
   details[open] > summary {
     color: rgba(255, 255, 255, 1);
     font-weight: 700;
-  }
-
-  details[open] > summary::marker {
-    content: "👇 ";
   }
 </style>

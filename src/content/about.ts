@@ -1,14 +1,17 @@
 export const aboutPageDescription = `
 📱 mobile / iot developer since 2016<br/>
 ✌️ 2e autistic since 1992<br/>
-🌲 working remotely from vacationland (maine, usa)<br/>
-💩 crohn's disease have-r<br/>
-🛩️ <a href='/travel'>frequent flyer</a><br/>
+🦞 born and raised new englander<br/>
+🏕️ <a style="text-decoration:underline;" href="https://www.maine.gov/ifw/programs-resources/registered-maine-guides/index.html" target="_blank" rel="noopener noreferrer">registered maine guide</a><br/>
 🐕 3x dog parent to diesel, moose, and hoagie roll<br/>
+🛩️ <a href='/travel'>frequent flyer</a><br/>
+🎿 alpine skier<br/>
+🛶 sea kayaker<br/>
+💩 crohn's disease have-r<br/>
 🦻 hearing aids wearer<br/>
-🏕️ outdoors enthusiast<br/>
+🤔 <a style="text-decoration:underline;" href="https://learnedleague.com/profiles.php?68607" target="_blank" rel="noopener noreferrer">trivia player</a><br/>
 🏎️ vroom vroom watcher<br/>
-🤔 <a style="text-decoration:underline;" href="https://learnedleague.com/profiles.php?68607" target="_blank" rel="noopener noreferrer">trivia player</a>
+🧱 lego builder<br/>
         `
 
 const jobs = [

@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1855939112138,
+          37.5707948
+        ]
+      },
+      "properties": {
+        "name": "Bryce Canyon National Park",
+        "osmId": "R4716641",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.15525624854631,
+          38.06702855
+        ]
+      },
+      "properties": {
+        "name": "Capitol Reef National Park",
+        "osmId": "R4716642",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.56302009799683,
+          38.72652525
+        ]
+      },
+      "properties": {
+        "name": "Arches National Park",
+        "osmId": "R5868384",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.92066271557445,
+          38.233258649999996
+        ]
+      },
+      "properties": {
+        "name": "Canyonlands National Park",
+        "osmId": "R13624591",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.00484986744966,
+          37.3225299
+        ]
+      },
+      "properties": {
+        "name": "Zion National Park",
+        "osmId": "R5758583",
+        "region": "US-UT",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.951115789,
+          33.89706715
+        ]
+      },
+      "properties": {
+        "name": "Joshua Tree National Park",
+        "osmId": "R6145614",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.45559640928934,
+          37.253776
+        ]
+      },
+      "properties": {
+        "name": "Mesa Verde National Park",
+        "osmId": "R5749837",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61226723463207,
+          37.791187050000005
+        ]
+      },
+      "properties": {
+        "name": "Great Sand Dunes National Park",
+        "osmId": "R5725308",
+        "region": "US-CO",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.56068933143061,
+          44.6200885
+        ]
+      },
+      "properties": {
+        "name": "Yellowstone National Park",
+        "osmId": "R1453306",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.648794777,
+          43.81056675
+        ]
+      },
+      "properties": {
+        "name": "Grand Teton National Park",
+        "osmId": "R1492555",
+        "region": "US-WY",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.361662896,
+          43.52710585
+        ]
+      },
+      "properties": {
+        "name": "Badlands National Park",
+        "osmId": "R5731065",
+        "region": "US-SD",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.292896037,
+          36.30785475
+        ]
+      },
+      "properties": {
+        "name": "Grand Canyon National Park",
+        "osmId": "R183377",
+        "region": "US-AZ",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.872352226,
+          58.8130745
+        ]
+      },
+      "properties": {
+        "name": "Glacier Bay National Park",
+        "osmId": "R6077677",
+        "region": "US-AK",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08839086763231,
+          36.4702428
+        ]
+      },
+      "properties": {
+        "name": "Death Valley National Park",
+        "osmId": "R174732",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.050500907,
+          41.76807455
+        ]
+      },
+      "properties": {
+        "name": "Redwood National Park",
+        "osmId": "R215231",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.51646348068644,
+          37.83930035
+        ]
+      },
+      "properties": {
+        "name": "Yosemite National Park",
+        "osmId": "R1643367",
+        "region": "US-CA",
+        "country": "United States",
+        "countryCode": "US",
+        "flag": "🇺🇸",
+        "continent": "NA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.740011839034,
+          18.336883049999997
+        ]
+      },
+      "properties": {
+        "name": "Virgin Islands National Park",
+        "osmId": "R2910708",
+        "region": "VI",
+        "country": "United States Virgin Islands",
+        "countryCode": "VI",
+        "flag": "🇻🇮",
+        "continent": "SA"
+      }
+    }
+  ]
+}

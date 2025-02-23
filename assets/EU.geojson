@@ -1,0 +1,2418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3483915,
+          48.8534951
+        ]
+      },
+      "properties": {
+        "name": "Paris",
+        "osmId": "R7444",
+        "region": "FR-J",
+        "country": "France",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276474,
+          51.5073219
+        ]
+      },
+      "properties": {
+        "name": "London",
+        "osmId": "R65606",
+        "region": "GB-1L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4829321,
+          41.8933203
+        ]
+      },
+      "properties": {
+        "name": "Rome",
+        "osmId": "R41485",
+        "region": "IT-62",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8936041,
+          52.3727598
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam",
+        "osmId": "R271110",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4212535,
+          50.0874654
+        ]
+      },
+      "properties": {
+        "name": "Prague",
+        "osmId": "R435514",
+        "region": "CZ1",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "flag": "🇨🇿",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3345898,
+          45.4371908
+        ]
+      },
+      "properties": {
+        "name": "Venice",
+        "osmId": "R44741",
+        "region": "IT-34",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3725042,
+          48.2083537
+        ]
+      },
+      "properties": {
+        "name": "Vienna",
+        "osmId": "R109166",
+        "region": "AT-9",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.626598188,
+          63.98486065
+        ]
+      },
+      "properties": {
+        "name": "Keflavík International Airport",
+        "osmId": "R6584878",
+        "region": "IS-R",
+        "country": "Iceland",
+        "countryCode": "IS",
+        "flag": "🇮🇸",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.937044334,
+          59.6467921
+        ]
+      },
+      "properties": {
+        "name": "Stockholm-Arlanda Airport",
+        "osmId": "W81298309",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0710935,
+          59.3251172
+        ]
+      },
+      "properties": {
+        "name": "Stockholm",
+        "osmId": "R398021",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6387436,
+          59.8586126
+        ]
+      },
+      "properties": {
+        "name": "Uppsala",
+        "osmId": "N25735371",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.331331,
+          59.40406
+        ]
+      },
+      "properties": {
+        "name": "Vaxholm",
+        "osmId": "N80275734",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7236301,
+          59.6165201
+        ]
+      },
+      "properties": {
+        "name": "Sigtuna",
+        "osmId": "N26120596",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9164192,
+          59.517164
+        ]
+      },
+      "properties": {
+        "name": "Upplands Väsby",
+        "osmId": "N56449803",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.05614,
+          59.43674
+        ]
+      },
+      "properties": {
+        "name": "Täby",
+        "osmId": "N30097620",
+        "region": "SE2",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.333082140070225,
+          67.8200558
+        ]
+      },
+      "properties": {
+        "name": "Kiruna Airport",
+        "osmId": "W910966684",
+        "region": "SE1",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.243812,
+          67.8518066
+        ]
+      },
+      "properties": {
+        "name": "Kiruna",
+        "osmId": "N12245954798",
+        "region": "SE1",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6053047,
+          67.8503783
+        ]
+      },
+      "properties": {
+        "name": "Jukkasjärvi",
+        "osmId": "W311153967",
+        "region": "SE1",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8300059,
+          68.3501695
+        ]
+      },
+      "properties": {
+        "name": "Abisko",
+        "osmId": "N388483157",
+        "region": "SE1",
+        "country": "Sweden",
+        "countryCode": "SE",
+        "flag": "🇸🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4271978,
+          68.4383796
+        ]
+      },
+      "properties": {
+        "name": "Narvik - Áhkánjárga",
+        "osmId": "N20981180",
+        "region": "NO-N",
+        "country": "Norway",
+        "countryCode": "NO",
+        "flag": "🇳🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.18231165,
+          51.1541082
+        ]
+      },
+      "properties": {
+        "name": "London Gatwick Airport",
+        "osmId": "W260720166",
+        "region": "GB-1SE",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.458780074,
+          51.46773895
+        ]
+      },
+      "properties": {
+        "name": "Heathrow Airport",
+        "osmId": "R14001268",
+        "region": "GB-1L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.359507986,
+          55.9501289
+        ]
+      },
+      "properties": {
+        "name": "Edinburgh Airport",
+        "osmId": "W403150963",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.247274062,
+          53.42829155
+        ]
+      },
+      "properties": {
+        "name": "Dublin Airport",
+        "osmId": "R10150161",
+        "region": "IE-L",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.920721565,
+          52.69960575
+        ]
+      },
+      "properties": {
+        "name": "Shannon Airport",
+        "osmId": "W353601828",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2602964,
+          53.3498006
+        ]
+      },
+      "properties": {
+        "name": "Dublin",
+        "osmId": "R1109531",
+        "region": "IE-L",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4654674,
+          51.897077
+        ]
+      },
+      "properties": {
+        "name": "Cork",
+        "osmId": "R11797890",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0490601,
+          53.2744122
+        ]
+      },
+      "properties": {
+        "name": "Galway",
+        "osmId": "R1390623",
+        "region": "IE-C",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6301239,
+          52.661252
+        ]
+      },
+      "properties": {
+        "name": "Limerick",
+        "osmId": "R14043380",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.508080264,
+          52.05975365
+        ]
+      },
+      "properties": {
+        "name": "Killarney",
+        "osmId": "R6362784",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.2687161,
+          52.1407781
+        ]
+      },
+      "properties": {
+        "name": "Dingle",
+        "osmId": "R14578391",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.7054085,
+          52.2692835
+        ]
+      },
+      "properties": {
+        "name": "Tralee",
+        "osmId": "R3094485",
+        "region": "IE-M",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1102616,
+          54.6537924
+        ]
+      },
+      "properties": {
+        "name": "Donegal",
+        "osmId": "R14571015",
+        "region": "IE-U",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4751357,
+          54.2720696
+        ]
+      },
+      "properties": {
+        "name": "Sligo",
+        "osmId": "R14571500",
+        "region": "IE-C",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "flag": "🇮🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.681487,
+          57.1443325
+        ]
+      },
+      "properties": {
+        "name": "Fort Augustus",
+        "osmId": "N281694663",
+        "region": "GB-2H",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9360012,
+          56.1181242
+        ]
+      },
+      "properties": {
+        "name": "Stirling",
+        "osmId": "N21091709",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883749,
+          55.9533456
+        ]
+      },
+      "properties": {
+        "name": "City of Edinburgh",
+        "osmId": "R1920901",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2488787,
+          55.8609825
+        ]
+      },
+      "properties": {
+        "name": "Glasgow",
+        "osmId": "N11127374",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5553768,
+          55.4776435
+        ]
+      },
+      "properties": {
+        "name": "Jedburgh",
+        "osmId": "N21757412",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0669404,
+          54.9953097
+        ]
+      },
+      "properties": {
+        "name": "Gretna",
+        "osmId": "N20981539",
+        "region": "GB-2L",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1017927,
+          54.971478
+        ]
+      },
+      "properties": {
+        "name": "Hexham",
+        "osmId": "R8418998",
+        "region": "GB-1NE",
+        "country": "United Kingdom",
+        "countryCode": "GB",
+        "flag": "🇬🇧",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7415052,
+          52.32697895
+        ]
+      },
+      "properties": {
+        "name": "Amsterdam Airport Schiphol",
+        "osmId": "R12470437",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.351697,
+          50.8465573
+        ]
+      },
+      "properties": {
+        "name": "Brussels",
+        "osmId": "R58274",
+        "region": "BE-BRU",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226772,
+          51.2085526
+        ]
+      },
+      "properties": {
+        "name": "Bruges",
+        "osmId": "R562654",
+        "region": "BE-VLG",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3997081,
+          51.2211097
+        ]
+      },
+      "properties": {
+        "name": "Antwerp",
+        "osmId": "R59518",
+        "region": "BE-VLG",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47775,
+          51.9244424
+        ]
+      },
+      "properties": {
+        "name": "Rotterdam",
+        "osmId": "R1411101",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3113461,
+          52.0799838
+        ]
+      },
+      "properties": {
+        "name": "The Hague",
+        "osmId": "R192737",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7250121,
+          51.0538286
+        ]
+      },
+      "properties": {
+        "name": "Ghent",
+        "osmId": "R897671",
+        "region": "BE-VLG",
+        "country": "Belgium",
+        "countryCode": "BE",
+        "flag": "🇧🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1215634,
+          52.0907006
+        ]
+      },
+      "properties": {
+        "name": "Utrecht",
+        "osmId": "R419203",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35839,
+          52.0114017
+        ]
+      },
+      "properties": {
+        "name": "Delft",
+        "osmId": "R324269",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3402639,
+          51.9097536
+        ]
+      },
+      "properties": {
+        "name": "Vlaardingen",
+        "osmId": "R300902",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5310837,
+          52.0109579
+        ]
+      },
+      "properties": {
+        "name": "Bleiswijk",
+        "osmId": "R47704",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6388048,
+          52.3885317
+        ]
+      },
+      "properties": {
+        "name": "Haarlem",
+        "osmId": "R47534",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5307624,
+          52.3713394
+        ]
+      },
+      "properties": {
+        "name": "Zandvoort",
+        "osmId": "R1373234",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6926051,
+          52.3056329
+        ]
+      },
+      "properties": {
+        "name": "Hoofddorp",
+        "osmId": "R1883605",
+        "region": "NL3",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "flag": "🇳🇱",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0635282,
+          50.6365654
+        ]
+      },
+      "properties": {
+        "name": "Lille",
+        "osmId": "R58404",
+        "region": "FR-O",
+        "country": "France",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.571081969,
+          49.0068908
+        ]
+      },
+      "properties": {
+        "name": "Charles de Gaulle International Airport",
+        "osmId": "W294032205",
+        "region": "FR-J",
+        "country": "France",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5753822,
+          48.1371079
+        ]
+      },
+      "properties": {
+        "name": "Munich",
+        "osmId": "R62428",
+        "region": "DE-BY",
+        "country": "Germany",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.129799,
+          49.6112768
+        ]
+      },
+      "properties": {
+        "name": "Luxembourg",
+        "osmId": "R407489",
+        "region": "LU",
+        "country": "Luxembourg",
+        "countryCode": "LU",
+        "flag": "🇱🇺",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7507127,
+          48.584614
+        ]
+      },
+      "properties": {
+        "name": "Strasbourg",
+        "osmId": "R71033",
+        "region": "FR-A",
+        "country": "France",
+        "countryCode": "FR",
+        "flag": "🇫🇷",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3927685,
+          47.2654296
+        ]
+      },
+      "properties": {
+        "name": "Innsbruck",
+        "osmId": "R4835169",
+        "region": "AT-7",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4034195,
+          49.0068705
+        ]
+      },
+      "properties": {
+        "name": "Karlsruhe",
+        "osmId": "R62518",
+        "region": "DE-BW",
+        "country": "Germany",
+        "countryCode": "DE",
+        "flag": "🇩🇪",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5410422,
+          47.3744489
+        ]
+      },
+      "properties": {
+        "name": "Zurich",
+        "osmId": "R1682248",
+        "region": "CH-ZH",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.553204683,
+          47.4635489
+        ]
+      },
+      "properties": {
+        "name": "Zürich Airport",
+        "osmId": "R13368029",
+        "region": "CH-ZH",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4514512,
+          46.9482713
+        ]
+      },
+      "properties": {
+        "name": "Bern",
+        "osmId": "R1682378",
+        "region": "CH-BE",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3054682,
+          47.0505452
+        ]
+      },
+      "properties": {
+        "name": "Lucerne",
+        "osmId": "R1682891",
+        "region": "CH-LU",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3765878,
+          47.4250593
+        ]
+      },
+      "properties": {
+        "name": "St. Gallen",
+        "osmId": "R1683941",
+        "region": "CH-SG",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5102476,
+          47.2190937
+        ]
+      },
+      "properties": {
+        "name": "Gamprin",
+        "osmId": "R1155947",
+        "region": "LI",
+        "country": "Liechtenstein",
+        "countryCode": "LI",
+        "flag": "🇱🇮",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8585139,
+          46.6855231
+        ]
+      },
+      "properties": {
+        "name": "Interlaken",
+        "osmId": "R1682493",
+        "region": "CH-BE",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9078016,
+          46.5939043
+        ]
+      },
+      "properties": {
+        "name": "Lauterbrunnen",
+        "osmId": "R1682529",
+        "region": "CH-BE",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0367462,
+          46.6242733
+        ]
+      },
+      "properties": {
+        "name": "Grindelwald",
+        "osmId": "R1682457",
+        "region": "CH-BE",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9217237,
+          46.6054411
+        ]
+      },
+      "properties": {
+        "name": "Wengen",
+        "osmId": "N240096898",
+        "region": "CH-BE",
+        "country": "Switzerland",
+        "countryCode": "CH",
+        "flag": "🇨🇭",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2663669,
+          47.1288996
+        ]
+      },
+      "properties": {
+        "name": "Gemeinde Sankt Anton am Arlberg",
+        "osmId": "R76825",
+        "region": "AT-7",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9712246,
+          47.0731881
+        ]
+      },
+      "properties": {
+        "name": "Längenfeld",
+        "osmId": "R77766",
+        "region": "AT-7",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3547801,
+          46.4981125
+        ]
+      },
+      "properties": {
+        "name": "Bolzano - Bozen",
+        "osmId": "R47207",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1373506,
+          46.5383332
+        ]
+      },
+      "properties": {
+        "name": "Cortina d'Ampezzo",
+        "osmId": "R47235",
+        "region": "IT-34",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7600992,
+          46.5551877
+        ]
+      },
+      "properties": {
+        "name": "Sëlva - Wolkenstein - Selva",
+        "osmId": "N64777153",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6721382,
+          46.5752077
+        ]
+      },
+      "properties": {
+        "name": "Urtijëi - St. Ulrich in Gröden - Ortisei",
+        "osmId": "R47265",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9355121,
+          46.7963194
+        ]
+      },
+      "properties": {
+        "name": "Bruneck - Brunico",
+        "osmId": "R47317",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.295392943840369,
+          46.6177504
+        ]
+      },
+      "properties": {
+        "name": "Tre Cime di Lavaredo - Drei Zinnen",
+        "osmId": "W177435733",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2242801,
+          46.735425
+        ]
+      },
+      "properties": {
+        "name": "Toblach - Dobbiaco",
+        "osmId": "R47285",
+        "region": "IT-32",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7772781,
+          45.6496485
+        ]
+      },
+      "properties": {
+        "name": "Triest",
+        "osmId": "R179180",
+        "region": "IT-36",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5069289,
+          46.0500268
+        ]
+      },
+      "properties": {
+        "name": "Ljubljana",
+        "osmId": "R1675898",
+        "region": "SI",
+        "country": "Slovenia",
+        "countryCode": "SI",
+        "flag": "🇸🇮",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1100595,
+          46.3684202
+        ]
+      },
+      "properties": {
+        "name": "Bled",
+        "osmId": "R1675660",
+        "region": "SI",
+        "country": "Slovenia",
+        "countryCode": "SI",
+        "flag": "🇸🇮",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0789044,
+          46.383996
+        ]
+      },
+      "properties": {
+        "name": "Spodnje Gorje",
+        "osmId": "N208843209",
+        "region": "SI",
+        "country": "Slovenia",
+        "countryCode": "SI",
+        "flag": "🇸🇮",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8500268,
+          46.6167284
+        ]
+      },
+      "properties": {
+        "name": "Villach",
+        "osmId": "R106163",
+        "region": "AT-2",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0464806,
+          47.7981346
+        ]
+      },
+      "properties": {
+        "name": "Salzburg",
+        "osmId": "R86538",
+        "region": "AT-5",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.286198,
+          48.3059078
+        ]
+      },
+      "properties": {
+        "name": "Linz",
+        "osmId": "N25181326",
+        "region": "AT-4",
+        "country": "Austria",
+        "countryCode": "AT",
+        "flag": "🇦🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6113382,
+          49.1922443
+        ]
+      },
+      "properties": {
+        "name": "Brno",
+        "osmId": "R438171",
+        "region": "CZ2",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "flag": "🇨🇿",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.139658691421687,
+          48.15926025
+        ]
+      },
+      "properties": {
+        "name": "Bratislava",
+        "osmId": "R3992676",
+        "region": "SK1",
+        "country": "Slovakia",
+        "countryCode": "SK",
+        "flag": "🇸🇰",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402383,
+          47.4978789
+        ]
+      },
+      "properties": {
+        "name": "Budapest",
+        "osmId": "R1244004",
+        "region": "HU1",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "flag": "🇭🇺",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1486016,
+          46.2546312
+        ]
+      },
+      "properties": {
+        "name": "Szeged",
+        "osmId": "R1025105",
+        "region": "HU4",
+        "country": "Hungary",
+        "countryCode": "HU",
+        "flag": "🇭🇺",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6102746,
+          45.6523093
+        ]
+      },
+      "properties": {
+        "name": "Brasov",
+        "osmId": "R10367676",
+        "region": "RO8",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5479283,
+          45.3456607
+        ]
+      },
+      "properties": {
+        "name": "Sinaia",
+        "osmId": "R10694434",
+        "region": "RO2",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4656159,
+          45.5910307
+        ]
+      },
+      "properties": {
+        "name": "Rasnov",
+        "osmId": "R10367678",
+        "region": "RO8",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.371489,
+          45.5163111
+        ]
+      },
+      "properties": {
+        "name": "Bran",
+        "osmId": "R10514936",
+        "region": "RO8",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1027202,
+          44.4361414
+        ]
+      },
+      "properties": {
+        "name": "Bucharest",
+        "osmId": "R377733",
+        "region": "RO2",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4528527,
+          41.903411
+        ]
+      },
+      "properties": {
+        "name": "Vatican City",
+        "osmId": "R36989",
+        "region": "VA",
+        "country": "Vatican City",
+        "countryCode": "VA",
+        "flag": "🇻🇦",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2555757,
+          43.7698712
+        ]
+      },
+      "properties": {
+        "name": "Florence",
+        "osmId": "R42602",
+        "region": "IT-52",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.502876,
+          43.8428381
+        ]
+      },
+      "properties": {
+        "name": "Lucca",
+        "osmId": "R42659",
+        "region": "IT-52",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5136759,
+          35.8989818
+        ]
+      },
+      "properties": {
+        "name": "Valletta",
+        "osmId": "R7510580",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5238445,
+          35.8881119
+        ]
+      },
+      "properties": {
+        "name": "Birgu",
+        "osmId": "R6172198",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5020708,
+          35.9127609
+        ]
+      },
+      "properties": {
+        "name": "Sliema",
+        "osmId": "R6172199",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4025684,
+          35.8859549
+        ]
+      },
+      "properties": {
+        "name": "Mdina",
+        "osmId": "R7510549",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3973929,
+          35.9480742
+        ]
+      },
+      "properties": {
+        "name": "Saint Paul's Bay",
+        "osmId": "R7510596",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4961247,
+          35.9077803
+        ]
+      },
+      "properties": {
+        "name": "Gżira",
+        "osmId": "R7510588",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4105059,
+          35.9483211
+        ]
+      },
+      "properties": {
+        "name": "Buġibba",
+        "osmId": "N291986788",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5052716,
+          35.8929838
+        ]
+      },
+      "properties": {
+        "name": "Floriana",
+        "osmId": "R7510581",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5478673,
+          35.8880709
+        ]
+      },
+      "properties": {
+        "name": "Xgħajra",
+        "osmId": "R7510574",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.522721,
+          35.8825817
+        ]
+      },
+      "properties": {
+        "name": "Cospicua",
+        "osmId": "R7510576",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.517307,
+          35.887175
+        ]
+      },
+      "properties": {
+        "name": "Senglea",
+        "osmId": "R7510578",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4948986,
+          35.8991087
+        ]
+      },
+      "properties": {
+        "name": "Ta' Xbiex",
+        "osmId": "R7510583",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5448353,
+          35.8417662
+        ]
+      },
+      "properties": {
+        "name": "Marsaxlokk",
+        "osmId": "R7510571",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.368367,
+          35.9599618
+        ]
+      },
+      "properties": {
+        "name": "Mellieha",
+        "osmId": "R6181422",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2964033,
+          36.0245447
+        ]
+      },
+      "properties": {
+        "name": "Mġarr",
+        "osmId": "N131729697",
+        "region": "MT:G",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2398479,
+          36.0428907
+        ]
+      },
+      "properties": {
+        "name": "Victoria",
+        "osmId": "R7508583",
+        "region": "MT:G",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2182656,
+          36.0311977
+        ]
+      },
+      "properties": {
+        "name": "Xlendi",
+        "osmId": "N60796220",
+        "region": "MT:G",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2598063,
+          36.0708915
+        ]
+      },
+      "properties": {
+        "name": "Marsalforn",
+        "osmId": "N131740645",
+        "region": "MT:G",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.492295179,
+          35.84739655
+        ]
+      },
+      "properties": {
+        "name": "Malta International Airport",
+        "osmId": "R12802208",
+        "region": "MT",
+        "country": "Malta",
+        "countryCode": "MT",
+        "flag": "🇲🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.102687569,
+          44.56835935
+        ]
+      },
+      "properties": {
+        "name": "Henri Coandă International Airport (OTP)",
+        "osmId": "W84575372",
+        "region": "RO2",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288457445,
+          44.5344306
+        ]
+      },
+      "properties": {
+        "name": "Bologna Guglielmo Marconi Airport",
+        "osmId": "R11212141",
+        "region": "IT-45",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.342579681064803,
+          45.50353855
+        ]
+      },
+      "properties": {
+        "name": "Venice Marco Polo Airport",
+        "osmId": "W460409906",
+        "region": "IT-34",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22650508,
+          41.81534125
+        ]
+      },
+      "properties": {
+        "name": "Roma-Fiumicino Airport",
+        "osmId": "R16054538",
+        "region": "IT-62",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.19912062,
+          43.80928725
+        ]
+      },
+      "properties": {
+        "name": "Florence Airport",
+        "osmId": "R1788587",
+        "region": "IT-52",
+        "country": "Italy",
+        "countryCode": "IT",
+        "flag": "🇮🇹",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3196342,
+          46.1753793
+        ]
+      },
+      "properties": {
+        "name": "Arad",
+        "osmId": "R10488682",
+        "region": "RO5",
+        "country": "Romania",
+        "countryCode": "RO",
+        "flag": "🇷🇴",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.474285,
+          48.9747357
+        ]
+      },
+      "properties": {
+        "name": "České Budějovice",
+        "osmId": "R437861",
+        "region": "CZ1",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "flag": "🇨🇿",
+        "continent": "EU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3150586,
+          48.8106526
+        ]
+      },
+      "properties": {
+        "name": "Český Krumlov",
+        "osmId": "R438508",
+        "region": "CZ1",
+        "country": "Czechia",
+        "countryCode": "CZ",
+        "flag": "🇨🇿",
+        "continent": "EU"
+      }
+    }
+  ]
+}
