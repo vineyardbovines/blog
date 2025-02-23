@@ -15,4 +15,12 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkReadingTime],
   },
+  vite: {
+    resolve: {
+      // https://github.com/withastro/astro/issues/12824
+      alias: import.meta.env.PROD && {
+        "react-dom/server": "react-dom/server.edge"
+      }
+    }
+  }
 });
