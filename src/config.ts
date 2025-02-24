@@ -1,4 +1,4 @@
-import { aboutPageDescription, aboutDescription, work } from "./content/about";
+import { aboutDescription, work } from "./content/about";
 import type {
   NavBarLink,
   SocialLink,

@@ -68,7 +68,7 @@ posts.splice(2);
               </p>
               <h3 class="font-medium hover-underline">{post.data.title}</h3>
               <p class="text-sm opacity-60 mt-2 mb-3">{post.data.description}</p>
-              <TagList tags={post.data.tags} useLink={false} />
+              <TagList tags={post.data.tags ?? []} useLink={false} />
             </div>
           </a>
         ))

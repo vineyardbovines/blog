@@ -181,7 +181,7 @@ export default function Mapbox() {
   return (
     <div>
       <div
-        class="w-[325px] h-[210px] lg:w-[800px] lg:h-[450px]"
+        className="w-[325px] h-[210px] lg:w-[800px] lg:h-[450px]"
         ref={mapContainerRef} />
       {/* <div style={{ display: 'flex', flexDirection: "row", gap: 16 }}>
         <button id="airports" onClick={handleClick}>airports</button>
