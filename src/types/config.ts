@@ -51,7 +51,12 @@ export type AboutPageContent = {
   seo: SEOInfo;
   subtitle: string;
   about: {
-    description: string;
+    description: {
+      emoji: string
+      text: string
+      external?: boolean
+      url?: string
+    }[];
     image_l: {
       url: string;
       alt: string;

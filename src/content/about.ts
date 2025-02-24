@@ -1,18 +1,61 @@
-export const aboutPageDescription = `
-📱 mobile / iot developer since 2016<br/>
-✌️ 2e autistic since 1992<br/>
-🦞 born and raised new englander<br/>
-🏕️ <a style="text-decoration:underline;" href="https://www.maine.gov/ifw/programs-resources/registered-maine-guides/index.html" target="_blank" rel="noopener noreferrer">registered maine guide</a><br/>
-🐕 3x dog parent to diesel, moose, and hoagie roll<br/>
-🛩️ <a href='/travel'>frequent flyer</a><br/>
-🎿 alpine skier<br/>
-🛶 sea kayaker<br/>
-💩 crohn's disease have-r<br/>
-🦻 hearing aids wearer<br/>
-🤔 <a style="text-decoration:underline;" href="https://learnedleague.com/profiles.php?68607" target="_blank" rel="noopener noreferrer">trivia player</a><br/>
-🏎️ vroom vroom watcher<br/>
-🧱 lego builder<br/>
-        `
+export const aboutDescription = [
+  {
+    emoji: "📱",
+    text: "mobile / iot developer since 2016",
+  },
+  {
+    emoji: "✌️",
+    text: "2e autistic since 1992",
+  },
+  {
+    emoji: "🦞",
+    text: "born and raised new englander",
+  },
+  {
+    emoji: "🐕",
+    text: "3x dog parent to diesel, moose, and hoagie roll",
+  },
+  {
+    url: "https://www.maine.gov/ifw/programs-resources/registered-maine-guides/index.html",
+    emoji: "🏕️",
+    text: "registered maine guide",
+  },
+  {
+    url: "/travel",
+    external: false,
+    emoji: "🛩️",
+    text: "frequent flyer",
+  },
+  {
+    emoji: "🎿",
+    text: "alpine skier",
+  },
+  {
+    emoji: "🛶",
+    text: "sea kayaker",
+  },
+  {
+    emoji: "💩",
+    text: "crohn's disease have-r",
+  },
+  {
+    emoji: "🦻",
+    text: "hearing aids wearer",
+  },
+  {
+    url: "https://learnedleague.com/profiles.php?68607",
+    emoji: "🤔",
+    text: "trivia player",
+  },
+  {
+    emoji: "🏎️",
+    text: "vroom vroom watcher",
+  },
+  {
+    emoji: "🧱",
+    text: "lego builder",
+  },
+]
 
 const jobs = [
   {

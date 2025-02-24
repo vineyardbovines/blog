@@ -1,4 +1,4 @@
-import { aboutPageDescription, work } from "./content/about";
+import { aboutPageDescription, aboutDescription, work } from "./content/about";
 import type {
   NavBarLink,
   SocialLink,
@@ -77,7 +77,7 @@ export const aboutPageContent: AboutPageContent = {
   },
   subtitle: "things you may want to know (or not)",
   about: {
-    description: aboutPageDescription,
+    description: aboutDescription,
     image_l: {
       url: "/about-horz.jpeg",
       alt: "spencer with moose and diesel in northern maine, usa",
