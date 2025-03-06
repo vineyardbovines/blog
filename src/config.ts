@@ -53,7 +53,7 @@ export const homePageContent: HomePageContent = {
   seo: {
     title: "spence pope",
     description:
-      "Mobile technologist",
+      "mobile technologist",
     image: identity.logo,
   },
   role: "software engineer",
